@@ -1,0 +1,183 @@
+student_id,name,invalid_subject,reason
+1001,Karl Thomas,Mathematics,Learner does not meet the minimum requirement.
+1001,Karl Thomas,Computer Applications Technology,Learner does not meet the minimum requirement.
+1001,Karl Thomas,Physical Sciences,Learner does not meet the minimum requirement.
+1001,Karl Thomas,Visual Arts,Learner does not meet the minimum requirement.
+1002,Karl Jones,Visual Arts,Learner does not meet the minimum requirement.
+1002,Karl Jones,Accounting,Learner does not meet the minimum requirement.
+1003,Nina Thomas,Information Technology,Learner does not meet the minimum requirement.
+1004,Grace Moore,Visual Arts,Learner does not meet the minimum requirement.
+1005,Eve Miller,Accounting,Learner does not meet the minimum requirement.
+1006,Ivan Williams,Business Studies,Learner does not meet the minimum requirement.
+1006,Ivan Williams,Accounting,Learner does not meet the minimum requirement.
+1007,Charlie Anderson,Accounting,Learner does not meet the minimum requirement.
+1007,Charlie Anderson,History,Learner does not meet the minimum requirement.
+1007,Charlie Anderson,Physical Sciences,Learner does not meet the minimum requirement.
+1009,Nina Moore,Life Sciences,Learner does not meet the minimum requirement.
+1009,Nina Moore,Accounting,Learner does not meet the minimum requirement.
+1010,Karl Smith,Accounting,Learner does not meet the minimum requirement.
+1011,Heidi Moore,History,Learner does not meet the minimum requirement.
+1011,Heidi Moore,Information Technology,Learner does not meet the minimum requirement.
+1012,Sam Wilson,Mathematics,Learner does not meet the minimum requirement.
+1013,Trudy Garcia,Mathematics,Learner does not meet the minimum requirement.
+1013,Trudy Garcia,Accounting,Learner does not meet the minimum requirement.
+1014,Bob Johnson,Mathematics,Learner does not meet the minimum requirement.
+1014,Bob Johnson,Computer Applications Technology,Learner does not meet the minimum requirement.
+1015,Karl Wilson,Information Technology,Learner does not meet the minimum requirement.
+1015,Karl Wilson,Accounting,Learner does not meet the minimum requirement.
+1016,Sam Anderson,Mathematics,Learner does not meet the minimum requirement.
+1016,Sam Anderson,Computer Applications Technology,Learner does not meet the minimum requirement.
+1016,Sam Anderson,Accounting,Learner does not meet the minimum requirement.
+1016,Sam Anderson,Visual Arts,Learner does not meet the minimum requirement.
+1017,Quentin Martinez,Business Studies,Learner does not meet the minimum requirement.
+1017,Quentin Martinez,Life Sciences,Learner does not meet the minimum requirement.
+1018,Ivan Brown,Mathematics,Learner does not meet the minimum requirement.
+1018,Ivan Brown,Computer Applications Technology,Learner does not meet the minimum requirement.
+1018,Ivan Brown,Accounting,Learner does not meet the minimum requirement.
+1018,Ivan Brown,Information Technology,Learner does not meet the minimum requirement.
+1019,Judy Wilson,Information Technology,Learner does not meet the minimum requirement.
+1020,Judy Davis,Geography,Learner does not meet the minimum requirement.
+1020,Judy Davis,History,Learner does not meet the minimum requirement.
+1021,Bob Williams,Information Technology,Learner does not meet the minimum requirement.
+1022,Mallory Brown,Information Technology,Learner does not meet the minimum requirement.
+1023,Ivan Hernandez,Physical Sciences,Learner does not meet the minimum requirement.
+1024,Eve Jones,Geography,Learner does not meet the minimum requirement.
+1024,Eve Jones,Accounting,Learner does not meet the minimum requirement.
+1024,Eve Jones,History,Learner does not meet the minimum requirement.
+1026,Mallory Garcia,Life Sciences,Learner does not meet the minimum requirement.
+1026,Mallory Garcia,Physical Sciences,Learner does not meet the minimum requirement.
+1027,Ivan Miller,Business Studies,Learner does not meet the minimum requirement.
+1027,Ivan Miller,Accounting,Learner does not meet the minimum requirement.
+1027,Ivan Miller,Life Sciences,Learner does not meet the minimum requirement.
+1028,Alice Thomas,Mathematics,Learner does not meet the minimum requirement.
+1029,Ivan Gonzalez,Life Sciences,Learner does not meet the minimum requirement.
+1029,Ivan Gonzalez,Physical Sciences,Learner does not meet the minimum requirement.
+1030,Quentin Wilson,Physical Sciences,Learner does not meet the minimum requirement.
+1030,Quentin Wilson,Information Technology,Learner does not meet the minimum requirement.
+1030,Quentin Wilson,History,Learner does not meet the minimum requirement.
+1031,Ivan Garcia,Business Studies,Learner does not meet the minimum requirement.
+1031,Ivan Garcia,Physical Sciences,Learner does not meet the minimum requirement.
+1031,Ivan Garcia,Geography,Learner does not meet the minimum requirement.
+1032,Grace Johnson,Information Technology,Learner does not meet the minimum requirement.
+1033,Judy Gonzalez,Business Studies,Learner does not meet the minimum requirement.
+1033,Judy Gonzalez,Physical Sciences,Learner does not meet the minimum requirement.
+1033,Judy Gonzalez,Accounting,Learner does not meet the minimum requirement.
+1034,David Rodriguez,Physical Sciences,Learner does not meet the minimum requirement.
+1034,David Rodriguez,Business Studies,Learner does not meet the minimum requirement.
+1034,David Rodriguez,Accounting,Learner does not meet the minimum requirement.
+1034,David Rodriguez,Computer Applications Technology,Learner does not meet the minimum requirement.
+1035,Grace Hernandez,Mathematics,Learner does not meet the minimum requirement.
+1035,Grace Hernandez,Physical Sciences,Learner does not meet the minimum requirement.
+1035,Grace Hernandez,Computer Applications Technology,Learner does not meet the minimum requirement.
+1035,Grace Hernandez,Life Sciences,Learner does not meet the minimum requirement.
+1036,Mallory Rodriguez,Life Sciences,Learner does not meet the minimum requirement.
+1036,Mallory Rodriguez,Physical Sciences,Learner does not meet the minimum requirement.
+1037,Grace Lopez,Physical Sciences,Learner does not meet the minimum requirement.
+1037,Grace Lopez,Business Studies,Learner does not meet the minimum requirement.
+1038,Heidi Miller,Life Sciences,Learner does not meet the minimum requirement.
+1038,Heidi Miller,Physical Sciences,Learner does not meet the minimum requirement.
+1039,Peggy Hernandez,Mathematics,Learner does not meet the minimum requirement.
+1040,Trudy Johnson,Information Technology,Learner does not meet the minimum requirement.
+1041,Charlie Rodriguez,Physical Sciences,Learner does not meet the minimum requirement.
+1042,Ivan Anderson,Information Technology,Learner does not meet the minimum requirement.
+1042,Ivan Anderson,Accounting,Learner does not meet the minimum requirement.
+1043,Oscar Jones,Physical Sciences,Learner does not meet the minimum requirement.
+1046,Judy Martinez,Geography,Learner does not meet the minimum requirement.
+1046,Judy Martinez,Business Studies,Learner does not meet the minimum requirement.
+1047,Leo Davis,Mathematics,Learner does not meet the minimum requirement.
+1047,Leo Davis,Physical Sciences,Learner does not meet the minimum requirement.
+1047,Leo Davis,Life Sciences,Learner does not meet the minimum requirement.
+1047,Leo Davis,Computer Applications Technology,Learner does not meet the minimum requirement.
+1048,Karl Williams,Physical Sciences,Learner does not meet the minimum requirement.
+1049,Rita Martinez,Mathematics,Learner does not meet the minimum requirement.
+1049,Rita Martinez,Computer Applications Technology,Learner does not meet the minimum requirement.
+1049,Rita Martinez,Information Technology,Learner does not meet the minimum requirement.
+1050,Nina Thomas,Mathematics,Learner does not meet the minimum requirement.
+1050,Nina Thomas,Computer Applications Technology,Learner does not meet the minimum requirement.
+1050,Nina Thomas,Physical Sciences,Learner does not meet the minimum requirement.
+1051,Peggy Smith,Information Technology,Learner does not meet the minimum requirement.
+1051,Peggy Smith,Computer Applications Technology,Learner does not meet the minimum requirement.
+1051,Peggy Smith,Physical Sciences,Learner does not meet the minimum requirement.
+1052,Alice Gonzalez,Mathematics,Learner does not meet the minimum requirement.
+1052,Alice Gonzalez,Life Sciences,Learner does not meet the minimum requirement.
+1052,Alice Gonzalez,Information Technology,Learner does not meet the minimum requirement.
+1052,Alice Gonzalez,Accounting,Learner does not meet the minimum requirement.
+1053,Mallory Thomas,Physical Sciences,Learner does not meet the minimum requirement.
+1053,Mallory Thomas,Life Sciences,Learner does not meet the minimum requirement.
+1054,Sam Gonzalez,Computer Applications Technology,Learner does not meet the minimum requirement.
+1054,Sam Gonzalez,Life Sciences,Learner does not meet the minimum requirement.
+1056,Eve Johnson,Mathematics,Learner does not meet the minimum requirement.
+1056,Eve Johnson,Geography,Learner does not meet the minimum requirement.
+1056,Eve Johnson,Computer Applications Technology,Learner does not meet the minimum requirement.
+1057,Frank Taylor,Physical Sciences,Learner does not meet the minimum requirement.
+1057,Frank Taylor,Life Sciences,Learner does not meet the minimum requirement.
+1058,Charlie Anderson,Information Technology,Learner does not meet the minimum requirement.
+1059,Ivan Taylor,History,Learner does not meet the minimum requirement.
+1059,Ivan Taylor,Geography,Learner does not meet the minimum requirement.
+1060,Sam Miller,Mathematics,Learner does not meet the minimum requirement.
+1060,Sam Miller,Physical Sciences,Learner does not meet the minimum requirement.
+1060,Sam Miller,Information Technology,Learner does not meet the minimum requirement.
+1063,Frank Smith,Life Sciences,Learner does not meet the minimum requirement.
+1064,Bob Garcia,Accounting,Learner does not meet the minimum requirement.
+1064,Bob Garcia,Life Sciences,Learner does not meet the minimum requirement.
+1064,Bob Garcia,Geography,Learner does not meet the minimum requirement.
+1065,Trudy Taylor,Information Technology,Learner does not meet the minimum requirement.
+1065,Trudy Taylor,Visual Arts,Learner does not meet the minimum requirement.
+1066,Frank Brown,Geography,Learner does not meet the minimum requirement.
+1066,Frank Brown,Visual Arts,Learner does not meet the minimum requirement.
+1067,Charlie Garcia,Mathematics,Learner does not meet the minimum requirement.
+1067,Charlie Garcia,Information Technology,Learner does not meet the minimum requirement.
+1068,Nina Hernandez,Business Studies,Learner does not meet the minimum requirement.
+1068,Nina Hernandez,Accounting,Learner does not meet the minimum requirement.
+1069,Grace Hernandez,Business Studies,Learner does not meet the minimum requirement.
+1070,Alice Garcia,Physical Sciences,Learner does not meet the minimum requirement.
+1070,Alice Garcia,Accounting,Learner does not meet the minimum requirement.
+1071,Ivan Rodriguez,Life Sciences,Learner does not meet the minimum requirement.
+1071,Ivan Rodriguez,Accounting,Learner does not meet the minimum requirement.
+1072,Alice Johnson,Mathematics,Learner does not meet the minimum requirement.
+1072,Alice Johnson,Physical Sciences,Learner does not meet the minimum requirement.
+1072,Alice Johnson,Visual Arts,Learner does not meet the minimum requirement.
+1073,Peggy Davis,Accounting,Learner does not meet the minimum requirement.
+1073,Peggy Davis,Computer Applications Technology,Learner does not meet the minimum requirement.
+1074,Alice Jones,History,Learner does not meet the minimum requirement.
+1074,Alice Jones,Information Technology,Learner does not meet the minimum requirement.
+1075,Nina Thomas,Life Sciences,Learner does not meet the minimum requirement.
+1075,Nina Thomas,Physical Sciences,Learner does not meet the minimum requirement.
+1075,Nina Thomas,Computer Applications Technology,Learner does not meet the minimum requirement.
+1076,Karl Gonzalez,Geography,Learner does not meet the minimum requirement.
+1079,Trudy Lopez,Physical Sciences,Learner does not meet the minimum requirement.
+1079,Trudy Lopez,Information Technology,Learner does not meet the minimum requirement.
+1080,Heidi Wilson,Business Studies,Learner does not meet the minimum requirement.
+1081,Sam Jackson,Life Sciences,Learner does not meet the minimum requirement.
+1082,Judy Gonzalez,History,Learner does not meet the minimum requirement.
+1082,Judy Gonzalez,Visual Arts,Learner does not meet the minimum requirement.
+1083,Peggy Lopez,Information Technology,Learner does not meet the minimum requirement.
+1083,Peggy Lopez,Computer Applications Technology,Learner does not meet the minimum requirement.
+1085,Trudy Martinez,Information Technology,Learner does not meet the minimum requirement.
+1087,Oscar Thomas,Visual Arts,Learner does not meet the minimum requirement.
+1087,Oscar Thomas,Information Technology,Learner does not meet the minimum requirement.
+1088,Nina Jackson,Visual Arts,Learner does not meet the minimum requirement.
+1088,Nina Jackson,Information Technology,Learner does not meet the minimum requirement.
+1088,Nina Jackson,History,Learner does not meet the minimum requirement.
+1088,Nina Jackson,Life Sciences,Learner does not meet the minimum requirement.
+1089,Charlie Moore,Life Sciences,Learner does not meet the minimum requirement.
+1091,Nina Taylor,Business Studies,Learner does not meet the minimum requirement.
+1092,Trudy Moore,History,Learner does not meet the minimum requirement.
+1093,Ivan Rodriguez,Mathematics,Learner does not meet the minimum requirement.
+1093,Ivan Rodriguez,Visual Arts,Learner does not meet the minimum requirement.
+1093,Ivan Rodriguez,Computer Applications Technology,Learner does not meet the minimum requirement.
+1095,Eve Davis,Mathematics,Learner does not meet the minimum requirement.
+1095,Eve Davis,History,Learner does not meet the minimum requirement.
+1095,Eve Davis,Information Technology,Learner does not meet the minimum requirement.
+1095,Eve Davis,Geography,Learner does not meet the minimum requirement.
+1096,Peggy Gonzalez,Information Technology,Learner does not meet the minimum requirement.
+1096,Peggy Gonzalez,History,Learner does not meet the minimum requirement.
+1097,Sam Jones,History,Learner does not meet the minimum requirement.
+1098,Bob Smith,Accounting,Learner does not meet the minimum requirement.
+1098,Bob Smith,History,Learner does not meet the minimum requirement.
+1099,Rita Miller,Mathematics,Learner does not meet the minimum requirement.
+1099,Rita Miller,Physical Sciences,Learner does not meet the minimum requirement.
+1099,Rita Miller,Information Technology,Learner does not meet the minimum requirement.
+1099,Rita Miller,Life Sciences,Learner does not meet the minimum requirement.
+1099,Rita Miller,Accounting,Learner does not meet the minimum requirement.
+1100,Peggy Miller,History,Learner does not meet the minimum requirement.

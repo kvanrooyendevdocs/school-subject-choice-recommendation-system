@@ -1,0 +1,14 @@
+subject,minimum_required_mark,required_field,category
+English,0,english_mark,Core
+Life Orientation,0,english_mark,Core
+Mathematics,60,math_mark,Core
+Mathematical Literacy,0,math_mark,Core
+Physical Sciences,65,natural_science_mark,Science
+Life Sciences,55,natural_science_mark,Science
+Accounting,60,ems_mark,Commerce
+Business Studies,50,ems_mark,Commerce
+Geography,50,social_science_mark,Humanities
+History,50,social_science_mark,Humanities
+Visual Arts,60,creative_arts_mark,Arts
+Computer Applications Technology,55,math_mark,Technology
+Information Technology,70,math_mark,Technology

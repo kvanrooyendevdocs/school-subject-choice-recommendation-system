@@ -1,0 +1,101 @@
+student_id,name,choice_1,choice_2,choice_3,choice_4,choice_5,choice_6,choice_7
+1001,Karl Thomas,English,Life Orientation,Mathematics,Computer Applications Technology,History,Physical Sciences,Visual Arts
+1002,Karl Jones,English,Life Orientation,Mathematics,Information Technology,Visual Arts,Computer Applications Technology,Accounting
+1003,Nina Thomas,English,Life Orientation,Mathematical Literacy,Geography,Visual Arts,Information Technology,Business Studies
+1004,Grace Moore,English,Life Orientation,Mathematics,Visual Arts,Physical Sciences,Business Studies,Life Sciences
+1005,Eve Miller,English,Life Orientation,Mathematical Literacy,Accounting,Geography,Visual Arts,History
+1006,Ivan Williams,English,Life Orientation,Mathematical Literacy,Business Studies,History,Life Sciences,Accounting
+1007,Charlie Anderson,English,Life Orientation,Mathematical Literacy,Accounting,History,Physical Sciences,Business Studies
+1008,Leo Moore,English,Life Orientation,Mathematics,Life Sciences,Business Studies,Visual Arts,Computer Applications Technology
+1009,Nina Moore,English,Life Orientation,Mathematical Literacy,Visual Arts,Computer Applications Technology,Life Sciences,Accounting
+1010,Karl Smith,English,Life Orientation,Mathematics,Computer Applications Technology,Visual Arts,Accounting,Life Sciences
+1011,Heidi Moore,English,Life Orientation,Mathematics,History,Computer Applications Technology,Accounting,Information Technology
+1012,Sam Wilson,English,Life Orientation,Mathematics,Geography,Computer Applications Technology,Life Sciences,Accounting
+1013,Trudy Garcia,English,Life Orientation,Mathematics,Physical Sciences,Accounting,Life Sciences,Computer Applications Technology
+1014,Bob Johnson,English,Life Orientation,Mathematics,Computer Applications Technology,Geography,Accounting,Visual Arts
+1015,Karl Wilson,English,Life Orientation,Mathematical Literacy,Information Technology,Geography,Accounting,Life Sciences
+1016,Sam Anderson,English,Life Orientation,Mathematics,Business Studies,Computer Applications Technology,Accounting,Visual Arts
+1017,Quentin Martinez,English,Life Orientation,Mathematics,Geography,Computer Applications Technology,Business Studies,Life Sciences
+1018,Ivan Brown,English,Life Orientation,Mathematics,Computer Applications Technology,Visual Arts,Accounting,Information Technology
+1019,Judy Wilson,English,Life Orientation,Mathematical Literacy,History,Accounting,Information Technology,Geography
+1020,Judy Davis,English,Life Orientation,Mathematics,Computer Applications Technology,Visual Arts,Geography,History
+1021,Bob Williams,English,Life Orientation,Mathematics,Accounting,Information Technology,History,Geography
+1022,Mallory Brown,English,Life Orientation,Mathematics,Information Technology,Physical Sciences,Life Sciences,Accounting
+1023,Ivan Hernandez,English,Life Orientation,Mathematical Literacy,Physical Sciences,History,Visual Arts,Geography
+1024,Eve Jones,English,Life Orientation,Mathematics,Geography,Information Technology,Accounting,History
+1025,David Taylor,English,Life Orientation,Mathematical Literacy,Accounting,Business Studies,Visual Arts,Geography
+1026,Mallory Garcia,English,Life Orientation,Mathematics,Life Sciences,Computer Applications Technology,Physical Sciences,Geography
+1027,Ivan Miller,English,Life Orientation,Mathematical Literacy,Business Studies,Accounting,Computer Applications Technology,Life Sciences
+1028,Alice Thomas,English,Life Orientation,Mathematics,Accounting,History,Geography,Life Sciences
+1029,Ivan Gonzalez,English,Life Orientation,Mathematical Literacy,Life Sciences,Physical Sciences,Information Technology,Computer Applications Technology
+1030,Quentin Wilson,English,Life Orientation,Mathematics,Physical Sciences,Computer Applications Technology,Information Technology,History
+1031,Ivan Garcia,English,Life Orientation,Mathematics,Business Studies,Visual Arts,Physical Sciences,Geography
+1032,Grace Johnson,English,Life Orientation,Mathematical Literacy,Geography,History,Information Technology,Accounting
+1033,Judy Gonzalez,English,Life Orientation,Mathematical Literacy,Business Studies,Physical Sciences,Visual Arts,Accounting
+1034,David Rodriguez,English,Life Orientation,Mathematical Literacy,Physical Sciences,Business Studies,Accounting,Computer Applications Technology
+1035,Grace Hernandez,English,Life Orientation,Mathematics,Physical Sciences,Computer Applications Technology,Business Studies,Life Sciences
+1036,Mallory Rodriguez,English,Life Orientation,Mathematical Literacy,History,Geography,Life Sciences,Physical Sciences
+1037,Grace Lopez,English,Life Orientation,Mathematics,Physical Sciences,History,Computer Applications Technology,Business Studies
+1038,Heidi Miller,English,Life Orientation,Mathematics,Accounting,Life Sciences,Information Technology,Physical Sciences
+1039,Peggy Hernandez,English,Life Orientation,Mathematics,History,Business Studies,Life Sciences,Accounting
+1040,Trudy Johnson,English,Life Orientation,Mathematical Literacy,Business Studies,History,Information Technology,Geography
+1041,Charlie Rodriguez,English,Life Orientation,Mathematics,Geography,Physical Sciences,Information Technology,History
+1042,Ivan Anderson,English,Life Orientation,Mathematical Literacy,Information Technology,Accounting,Computer Applications Technology,Life Sciences
+1043,Oscar Jones,English,Life Orientation,Mathematical Literacy,Business Studies,Physical Sciences,Information Technology,Visual Arts
+1044,Frank Rodriguez,English,Life Orientation,Mathematics,History,Visual Arts,Information Technology,Geography
+1045,Frank Taylor,English,Life Orientation,Mathematics,Geography,Visual Arts,Accounting,Physical Sciences
+1046,Judy Martinez,English,Life Orientation,Mathematics,Geography,Business Studies,Information Technology,Physical Sciences
+1047,Leo Davis,English,Life Orientation,Mathematics,Physical Sciences,Life Sciences,Accounting,Computer Applications Technology
+1048,Karl Williams,English,Life Orientation,Mathematics,Computer Applications Technology,Information Technology,Accounting,Physical Sciences
+1049,Rita Martinez,English,Life Orientation,Mathematics,Computer Applications Technology,Business Studies,Life Sciences,Information Technology
+1050,Nina Thomas,English,Life Orientation,Mathematics,Computer Applications Technology,Geography,Physical Sciences,Business Studies
+1051,Peggy Smith,English,Life Orientation,Mathematical Literacy,Information Technology,Accounting,Computer Applications Technology,Physical Sciences
+1052,Alice Gonzalez,English,Life Orientation,Mathematics,Life Sciences,Information Technology,Visual Arts,Accounting
+1053,Mallory Thomas,English,Life Orientation,Mathematical Literacy,Geography,Computer Applications Technology,Physical Sciences,Life Sciences
+1054,Sam Gonzalez,English,Life Orientation,Mathematical Literacy,Computer Applications Technology,Life Sciences,Visual Arts,Geography
+1055,Quentin Jackson,English,Life Orientation,Mathematical Literacy,Computer Applications Technology,Geography,Information Technology,History
+1056,Eve Johnson,English,Life Orientation,Mathematics,Geography,Accounting,Computer Applications Technology,Business Studies
+1057,Frank Taylor,English,Life Orientation,Mathematics,Physical Sciences,Accounting,Life Sciences,Computer Applications Technology
+1058,Charlie Anderson,English,Life Orientation,Mathematical Literacy,Business Studies,History,Accounting,Information Technology
+1059,Ivan Taylor,English,Life Orientation,Mathematics,History,Geography,Visual Arts,Business Studies
+1060,Sam Miller,English,Life Orientation,Mathematics,Visual Arts,Physical Sciences,Information Technology,Geography
+1061,Ivan Williams,English,Life Orientation,Mathematical Literacy,Information Technology,Accounting,Visual Arts,Computer Applications Technology
+1062,Grace Gonzalez,English,Life Orientation,Mathematics,Information Technology,Business Studies,Visual Arts,Accounting
+1063,Frank Smith,English,Life Orientation,Mathematical Literacy,Geography,Information Technology,Visual Arts,Life Sciences
+1064,Bob Garcia,English,Life Orientation,Mathematical Literacy,Accounting,Life Sciences,Business Studies,Geography
+1065,Trudy Taylor,English,Life Orientation,Mathematics,Life Sciences,Geography,Information Technology,Visual Arts
+1066,Frank Brown,English,Life Orientation,Mathematical Literacy,Geography,Visual Arts,Information Technology,Computer Applications Technology
+1067,Charlie Garcia,English,Life Orientation,Mathematics,Information Technology,Life Sciences,Geography,Visual Arts
+1068,Nina Hernandez,English,Life Orientation,Mathematics,Business Studies,Geography,Computer Applications Technology,Accounting
+1069,Grace Hernandez,English,Life Orientation,Mathematics,Computer Applications Technology,Geography,Visual Arts,Business Studies
+1070,Alice Garcia,English,Life Orientation,Mathematical Literacy,Physical Sciences,Information Technology,Geography,Accounting
+1071,Ivan Rodriguez,English,Life Orientation,Mathematical Literacy,Visual Arts,Life Sciences,Accounting,Information Technology
+1072,Alice Johnson,English,Life Orientation,Mathematics,History,Geography,Physical Sciences,Visual Arts
+1073,Peggy Davis,English,Life Orientation,Mathematical Literacy,Accounting,Geography,Computer Applications Technology,Physical Sciences
+1074,Alice Jones,English,Life Orientation,Mathematical Literacy,History,Business Studies,Accounting,Information Technology
+1075,Nina Thomas,English,Life Orientation,Mathematical Literacy,Life Sciences,Business Studies,Physical Sciences,Computer Applications Technology
+1076,Karl Gonzalez,English,Life Orientation,Mathematics,Business Studies,Geography,Accounting,Computer Applications Technology
+1077,Grace Brown,English,Life Orientation,Mathematics,Life Sciences,History,Physical Sciences,Computer Applications Technology
+1078,Nina Thomas,English,Life Orientation,Mathematical Literacy,Information Technology,Physical Sciences,Visual Arts,History
+1079,Trudy Lopez,English,Life Orientation,Mathematical Literacy,History,Physical Sciences,Information Technology,Geography
+1080,Heidi Wilson,English,Life Orientation,Mathematics,Business Studies,Life Sciences,Physical Sciences,History
+1081,Sam Jackson,English,Life Orientation,Mathematical Literacy,History,Life Sciences,Computer Applications Technology,Geography
+1082,Judy Gonzalez,English,Life Orientation,Mathematics,Information Technology,History,Computer Applications Technology,Visual Arts
+1083,Peggy Lopez,English,Life Orientation,Mathematical Literacy,Accounting,Information Technology,Computer Applications Technology,Visual Arts
+1084,Leo Hernandez,English,Life Orientation,Mathematics,Physical Sciences,Geography,Business Studies,Life Sciences
+1085,Trudy Martinez,English,Life Orientation,Mathematics,Geography,Information Technology,Visual Arts,Physical Sciences
+1086,Frank Davis,English,Life Orientation,Mathematics,Business Studies,Visual Arts,History,Life Sciences
+1087,Oscar Thomas,English,Life Orientation,Mathematical Literacy,History,Visual Arts,Information Technology,Geography
+1088,Nina Jackson,English,Life Orientation,Mathematical Literacy,Visual Arts,Information Technology,History,Life Sciences
+1089,Charlie Moore,English,Life Orientation,Mathematical Literacy,Life Sciences,Business Studies,Visual Arts,Geography
+1090,David Lopez,English,Life Orientation,Mathematics,Accounting,Visual Arts,Life Sciences,Business Studies
+1091,Nina Taylor,English,Life Orientation,Mathematical Literacy,Computer Applications Technology,Geography,Business Studies,Information Technology
+1092,Trudy Moore,English,Life Orientation,Mathematics,History,Information Technology,Accounting,Physical Sciences
+1093,Ivan Rodriguez,English,Life Orientation,Mathematics,Visual Arts,Geography,Life Sciences,Computer Applications Technology
+1094,Ivan Martinez,English,Life Orientation,Mathematical Literacy,Accounting,Life Sciences,Geography,Information Technology
+1095,Eve Davis,English,Life Orientation,Mathematics,Physical Sciences,History,Information Technology,Geography
+1096,Peggy Gonzalez,English,Life Orientation,Mathematics,Information Technology,History,Life Sciences,Computer Applications Technology
+1097,Sam Jones,English,Life Orientation,Mathematical Literacy,Accounting,Business Studies,Visual Arts,History
+1098,Bob Smith,English,Life Orientation,Mathematics,Computer Applications Technology,Accounting,Life Sciences,History
+1099,Rita Miller,English,Life Orientation,Mathematics,Physical Sciences,Information Technology,Life Sciences,Accounting
+1100,Peggy Miller,English,Life Orientation,Mathematics,Information Technology,Computer Applications Technology,History,Visual Arts
