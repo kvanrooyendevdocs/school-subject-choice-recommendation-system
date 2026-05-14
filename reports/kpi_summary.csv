@@ -1,0 +1,2 @@
+total_learners,valid_subject_packages,invalid_subject_packages,invalid_percentage,most_selected_subject,most_selected_subject_count,least_selected_subject,least_selected_subject_count,subject_with_most_invalid_choices,most_invalid_choices_count
+100,13,87,87.0,English,100,Business Studies,37,Physical Sciences,27

@@ -1,0 +1,13 @@
+School Subject Choice Recommendation System
+KPI Summary
+==================================================
+
+Total learners processed: 100
+Valid subject choice packages: 13
+Invalid subject choice packages: 87
+Invalid package percentage: 87.0%
+
+Most selected subject: English (100 learners)
+Least selected subject: Business Studies (37 learners)
+
+Subject with most invalid choices: Physical Sciences (27 invalid choices)
