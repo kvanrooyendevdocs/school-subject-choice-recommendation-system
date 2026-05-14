@@ -1,0 +1,31 @@
+School Subject Choice Recommendation System
+Executive Summary
+==================================================
+
+Total learners processed: 100
+Valid subject choice packages: 13
+Invalid subject choice packages: 87
+
+Top 5 subjects by demand:
+- English: 100 learners
+- Life Orientation: 100 learners
+- Mathematics: 58 learners
+- Accounting: 50 learners
+- Geography: 50 learners
+
+Lowest 5 subjects by demand:
+- Life Sciences: 44 learners
+- Mathematical Literacy: 42 learners
+- Physical Sciences: 40 learners
+- History: 39 learners
+- Business Studies: 37 learners
+
+Most common invalid subject choices:
+- Physical Sciences: 27 invalid selections
+- Information Technology: 27 invalid selections
+- Accounting: 23 invalid selections
+- Life Sciences: 21 invalid selections
+- Mathematics: 20 invalid selections
+
+Key interpretation:
+This report helps the school understand subject demand, identify invalid choices, and support earlier intervention before final subject allocations are confirmed.
