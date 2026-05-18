@@ -1,0 +1,1301 @@
+student_id,name,grade,subject,category,required_field,learner_mark,minimum_required_mark,status,recommendation_score
+1001,Sam Davis,9,English,Core,english_mark,58,0,Recommended,58
+1001,Sam Davis,9,Life Orientation,Core,english_mark,58,0,Recommended,58
+1001,Sam Davis,9,Mathematics,Core,math_mark,91,60,Recommended,31
+1001,Sam Davis,9,Mathematical Literacy,Core,math_mark,91,0,Recommended,91
+1001,Sam Davis,9,Physical Sciences,Science,natural_science_mark,58,65,Not eligible,-7
+1001,Sam Davis,9,Life Sciences,Science,natural_science_mark,58,55,Recommended,3
+1001,Sam Davis,9,Accounting,Commerce,ems_mark,93,60,Recommended,33
+1001,Sam Davis,9,Business Studies,Commerce,ems_mark,93,50,Recommended,43
+1001,Sam Davis,9,Geography,Humanities,social_science_mark,81,50,Recommended,31
+1001,Sam Davis,9,History,Humanities,social_science_mark,81,50,Recommended,31
+1001,Sam Davis,9,Visual Arts,Arts,creative_arts_mark,67,60,Recommended,7
+1001,Sam Davis,9,Computer Applications Technology,Technology,math_mark,91,55,Recommended,36
+1001,Sam Davis,9,Information Technology,Technology,math_mark,91,70,Recommended,21
+1002,Heidi Williams,9,English,Core,english_mark,59,0,Recommended,59
+1002,Heidi Williams,9,Life Orientation,Core,english_mark,59,0,Recommended,59
+1002,Heidi Williams,9,Mathematics,Core,math_mark,48,60,Not eligible,-12
+1002,Heidi Williams,9,Mathematical Literacy,Core,math_mark,48,0,Recommended,48
+1002,Heidi Williams,9,Physical Sciences,Science,natural_science_mark,90,65,Recommended,25
+1002,Heidi Williams,9,Life Sciences,Science,natural_science_mark,90,55,Recommended,35
+1002,Heidi Williams,9,Accounting,Commerce,ems_mark,85,60,Recommended,25
+1002,Heidi Williams,9,Business Studies,Commerce,ems_mark,85,50,Recommended,35
+1002,Heidi Williams,9,Geography,Humanities,social_science_mark,79,50,Recommended,29
+1002,Heidi Williams,9,History,Humanities,social_science_mark,79,50,Recommended,29
+1002,Heidi Williams,9,Visual Arts,Arts,creative_arts_mark,82,60,Recommended,22
+1002,Heidi Williams,9,Computer Applications Technology,Technology,math_mark,48,55,Not eligible,-7
+1002,Heidi Williams,9,Information Technology,Technology,math_mark,48,70,Not eligible,-22
+1003,Eve Jones,9,English,Core,english_mark,95,0,Recommended,95
+1003,Eve Jones,9,Life Orientation,Core,english_mark,95,0,Recommended,95
+1003,Eve Jones,9,Mathematics,Core,math_mark,59,60,Not eligible,-1
+1003,Eve Jones,9,Mathematical Literacy,Core,math_mark,59,0,Recommended,59
+1003,Eve Jones,9,Physical Sciences,Science,natural_science_mark,74,65,Recommended,9
+1003,Eve Jones,9,Life Sciences,Science,natural_science_mark,74,55,Recommended,19
+1003,Eve Jones,9,Accounting,Commerce,ems_mark,41,60,Not eligible,-19
+1003,Eve Jones,9,Business Studies,Commerce,ems_mark,41,50,Not eligible,-9
+1003,Eve Jones,9,Geography,Humanities,social_science_mark,87,50,Recommended,37
+1003,Eve Jones,9,History,Humanities,social_science_mark,87,50,Recommended,37
+1003,Eve Jones,9,Visual Arts,Arts,creative_arts_mark,58,60,Not eligible,-2
+1003,Eve Jones,9,Computer Applications Technology,Technology,math_mark,59,55,Recommended,4
+1003,Eve Jones,9,Information Technology,Technology,math_mark,59,70,Not eligible,-11
+1004,Judy Johnson,9,English,Core,english_mark,40,0,Recommended,40
+1004,Judy Johnson,9,Life Orientation,Core,english_mark,40,0,Recommended,40
+1004,Judy Johnson,9,Mathematics,Core,math_mark,90,60,Recommended,30
+1004,Judy Johnson,9,Mathematical Literacy,Core,math_mark,90,0,Recommended,90
+1004,Judy Johnson,9,Physical Sciences,Science,natural_science_mark,94,65,Recommended,29
+1004,Judy Johnson,9,Life Sciences,Science,natural_science_mark,94,55,Recommended,39
+1004,Judy Johnson,9,Accounting,Commerce,ems_mark,48,60,Not eligible,-12
+1004,Judy Johnson,9,Business Studies,Commerce,ems_mark,48,50,Not eligible,-2
+1004,Judy Johnson,9,Geography,Humanities,social_science_mark,36,50,Not eligible,-14
+1004,Judy Johnson,9,History,Humanities,social_science_mark,36,50,Not eligible,-14
+1004,Judy Johnson,9,Visual Arts,Arts,creative_arts_mark,51,60,Not eligible,-9
+1004,Judy Johnson,9,Computer Applications Technology,Technology,math_mark,90,55,Recommended,35
+1004,Judy Johnson,9,Information Technology,Technology,math_mark,90,70,Recommended,20
+1005,Leo Williams,9,English,Core,english_mark,41,0,Recommended,41
+1005,Leo Williams,9,Life Orientation,Core,english_mark,41,0,Recommended,41
+1005,Leo Williams,9,Mathematics,Core,math_mark,84,60,Recommended,24
+1005,Leo Williams,9,Mathematical Literacy,Core,math_mark,84,0,Recommended,84
+1005,Leo Williams,9,Physical Sciences,Science,natural_science_mark,36,65,Not eligible,-29
+1005,Leo Williams,9,Life Sciences,Science,natural_science_mark,36,55,Not eligible,-19
+1005,Leo Williams,9,Accounting,Commerce,ems_mark,67,60,Recommended,7
+1005,Leo Williams,9,Business Studies,Commerce,ems_mark,67,50,Recommended,17
+1005,Leo Williams,9,Geography,Humanities,social_science_mark,47,50,Not eligible,-3
+1005,Leo Williams,9,History,Humanities,social_science_mark,47,50,Not eligible,-3
+1005,Leo Williams,9,Visual Arts,Arts,creative_arts_mark,95,60,Recommended,35
+1005,Leo Williams,9,Computer Applications Technology,Technology,math_mark,84,55,Recommended,29
+1005,Leo Williams,9,Information Technology,Technology,math_mark,84,70,Recommended,14
+1006,Heidi Wilson,9,English,Core,english_mark,48,0,Recommended,48
+1006,Heidi Wilson,9,Life Orientation,Core,english_mark,48,0,Recommended,48
+1006,Heidi Wilson,9,Mathematics,Core,math_mark,63,60,Recommended,3
+1006,Heidi Wilson,9,Mathematical Literacy,Core,math_mark,63,0,Recommended,63
+1006,Heidi Wilson,9,Physical Sciences,Science,natural_science_mark,32,65,Not eligible,-33
+1006,Heidi Wilson,9,Life Sciences,Science,natural_science_mark,32,55,Not eligible,-23
+1006,Heidi Wilson,9,Accounting,Commerce,ems_mark,84,60,Recommended,24
+1006,Heidi Wilson,9,Business Studies,Commerce,ems_mark,84,50,Recommended,34
+1006,Heidi Wilson,9,Geography,Humanities,social_science_mark,78,50,Recommended,28
+1006,Heidi Wilson,9,History,Humanities,social_science_mark,78,50,Recommended,28
+1006,Heidi Wilson,9,Visual Arts,Arts,creative_arts_mark,48,60,Not eligible,-12
+1006,Heidi Wilson,9,Computer Applications Technology,Technology,math_mark,63,55,Recommended,8
+1006,Heidi Wilson,9,Information Technology,Technology,math_mark,63,70,Not eligible,-7
+1007,Trudy Jackson,9,English,Core,english_mark,63,0,Recommended,63
+1007,Trudy Jackson,9,Life Orientation,Core,english_mark,63,0,Recommended,63
+1007,Trudy Jackson,9,Mathematics,Core,math_mark,64,60,Recommended,4
+1007,Trudy Jackson,9,Mathematical Literacy,Core,math_mark,64,0,Recommended,64
+1007,Trudy Jackson,9,Physical Sciences,Science,natural_science_mark,80,65,Recommended,15
+1007,Trudy Jackson,9,Life Sciences,Science,natural_science_mark,80,55,Recommended,25
+1007,Trudy Jackson,9,Accounting,Commerce,ems_mark,71,60,Recommended,11
+1007,Trudy Jackson,9,Business Studies,Commerce,ems_mark,71,50,Recommended,21
+1007,Trudy Jackson,9,Geography,Humanities,social_science_mark,91,50,Recommended,41
+1007,Trudy Jackson,9,History,Humanities,social_science_mark,91,50,Recommended,41
+1007,Trudy Jackson,9,Visual Arts,Arts,creative_arts_mark,80,60,Recommended,20
+1007,Trudy Jackson,9,Computer Applications Technology,Technology,math_mark,64,55,Recommended,9
+1007,Trudy Jackson,9,Information Technology,Technology,math_mark,64,70,Not eligible,-6
+1008,Oscar Garcia,9,English,Core,english_mark,53,0,Recommended,53
+1008,Oscar Garcia,9,Life Orientation,Core,english_mark,53,0,Recommended,53
+1008,Oscar Garcia,9,Mathematics,Core,math_mark,54,60,Not eligible,-6
+1008,Oscar Garcia,9,Mathematical Literacy,Core,math_mark,54,0,Recommended,54
+1008,Oscar Garcia,9,Physical Sciences,Science,natural_science_mark,26,65,Not eligible,-39
+1008,Oscar Garcia,9,Life Sciences,Science,natural_science_mark,26,55,Not eligible,-29
+1008,Oscar Garcia,9,Accounting,Commerce,ems_mark,91,60,Recommended,31
+1008,Oscar Garcia,9,Business Studies,Commerce,ems_mark,91,50,Recommended,41
+1008,Oscar Garcia,9,Geography,Humanities,social_science_mark,69,50,Recommended,19
+1008,Oscar Garcia,9,History,Humanities,social_science_mark,69,50,Recommended,19
+1008,Oscar Garcia,9,Visual Arts,Arts,creative_arts_mark,46,60,Not eligible,-14
+1008,Oscar Garcia,9,Computer Applications Technology,Technology,math_mark,54,55,Not eligible,-1
+1008,Oscar Garcia,9,Information Technology,Technology,math_mark,54,70,Not eligible,-16
+1009,Judy Rodriguez,9,English,Core,english_mark,68,0,Recommended,68
+1009,Judy Rodriguez,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1009,Judy Rodriguez,9,Mathematics,Core,math_mark,47,60,Not eligible,-13
+1009,Judy Rodriguez,9,Mathematical Literacy,Core,math_mark,47,0,Recommended,47
+1009,Judy Rodriguez,9,Physical Sciences,Science,natural_science_mark,84,65,Recommended,19
+1009,Judy Rodriguez,9,Life Sciences,Science,natural_science_mark,84,55,Recommended,29
+1009,Judy Rodriguez,9,Accounting,Commerce,ems_mark,37,60,Not eligible,-23
+1009,Judy Rodriguez,9,Business Studies,Commerce,ems_mark,37,50,Not eligible,-13
+1009,Judy Rodriguez,9,Geography,Humanities,social_science_mark,76,50,Recommended,26
+1009,Judy Rodriguez,9,History,Humanities,social_science_mark,76,50,Recommended,26
+1009,Judy Rodriguez,9,Visual Arts,Arts,creative_arts_mark,48,60,Not eligible,-12
+1009,Judy Rodriguez,9,Computer Applications Technology,Technology,math_mark,47,55,Not eligible,-8
+1009,Judy Rodriguez,9,Information Technology,Technology,math_mark,47,70,Not eligible,-23
+1010,Trudy Garcia,9,English,Core,english_mark,94,0,Recommended,94
+1010,Trudy Garcia,9,Life Orientation,Core,english_mark,94,0,Recommended,94
+1010,Trudy Garcia,9,Mathematics,Core,math_mark,39,60,Not eligible,-21
+1010,Trudy Garcia,9,Mathematical Literacy,Core,math_mark,39,0,Recommended,39
+1010,Trudy Garcia,9,Physical Sciences,Science,natural_science_mark,78,65,Recommended,13
+1010,Trudy Garcia,9,Life Sciences,Science,natural_science_mark,78,55,Recommended,23
+1010,Trudy Garcia,9,Accounting,Commerce,ems_mark,64,60,Recommended,4
+1010,Trudy Garcia,9,Business Studies,Commerce,ems_mark,64,50,Recommended,14
+1010,Trudy Garcia,9,Geography,Humanities,social_science_mark,67,50,Recommended,17
+1010,Trudy Garcia,9,History,Humanities,social_science_mark,67,50,Recommended,17
+1010,Trudy Garcia,9,Visual Arts,Arts,creative_arts_mark,53,60,Not eligible,-7
+1010,Trudy Garcia,9,Computer Applications Technology,Technology,math_mark,39,55,Not eligible,-16
+1010,Trudy Garcia,9,Information Technology,Technology,math_mark,39,70,Not eligible,-31
+1011,Ivan Gonzalez,9,English,Core,english_mark,39,0,Recommended,39
+1011,Ivan Gonzalez,9,Life Orientation,Core,english_mark,39,0,Recommended,39
+1011,Ivan Gonzalez,9,Mathematics,Core,math_mark,48,60,Not eligible,-12
+1011,Ivan Gonzalez,9,Mathematical Literacy,Core,math_mark,48,0,Recommended,48
+1011,Ivan Gonzalez,9,Physical Sciences,Science,natural_science_mark,77,65,Recommended,12
+1011,Ivan Gonzalez,9,Life Sciences,Science,natural_science_mark,77,55,Recommended,22
+1011,Ivan Gonzalez,9,Accounting,Commerce,ems_mark,94,60,Recommended,34
+1011,Ivan Gonzalez,9,Business Studies,Commerce,ems_mark,94,50,Recommended,44
+1011,Ivan Gonzalez,9,Geography,Humanities,social_science_mark,95,50,Recommended,45
+1011,Ivan Gonzalez,9,History,Humanities,social_science_mark,95,50,Recommended,45
+1011,Ivan Gonzalez,9,Visual Arts,Arts,creative_arts_mark,52,60,Not eligible,-8
+1011,Ivan Gonzalez,9,Computer Applications Technology,Technology,math_mark,48,55,Not eligible,-7
+1011,Ivan Gonzalez,9,Information Technology,Technology,math_mark,48,70,Not eligible,-22
+1012,Quentin Williams,9,English,Core,english_mark,35,0,Recommended,35
+1012,Quentin Williams,9,Life Orientation,Core,english_mark,35,0,Recommended,35
+1012,Quentin Williams,9,Mathematics,Core,math_mark,60,60,Recommended,0
+1012,Quentin Williams,9,Mathematical Literacy,Core,math_mark,60,0,Recommended,60
+1012,Quentin Williams,9,Physical Sciences,Science,natural_science_mark,47,65,Not eligible,-18
+1012,Quentin Williams,9,Life Sciences,Science,natural_science_mark,47,55,Not eligible,-8
+1012,Quentin Williams,9,Accounting,Commerce,ems_mark,88,60,Recommended,28
+1012,Quentin Williams,9,Business Studies,Commerce,ems_mark,88,50,Recommended,38
+1012,Quentin Williams,9,Geography,Humanities,social_science_mark,94,50,Recommended,44
+1012,Quentin Williams,9,History,Humanities,social_science_mark,94,50,Recommended,44
+1012,Quentin Williams,9,Visual Arts,Arts,creative_arts_mark,78,60,Recommended,18
+1012,Quentin Williams,9,Computer Applications Technology,Technology,math_mark,60,55,Recommended,5
+1012,Quentin Williams,9,Information Technology,Technology,math_mark,60,70,Not eligible,-10
+1013,Bob Lopez,9,English,Core,english_mark,46,0,Recommended,46
+1013,Bob Lopez,9,Life Orientation,Core,english_mark,46,0,Recommended,46
+1013,Bob Lopez,9,Mathematics,Core,math_mark,82,60,Recommended,22
+1013,Bob Lopez,9,Mathematical Literacy,Core,math_mark,82,0,Recommended,82
+1013,Bob Lopez,9,Physical Sciences,Science,natural_science_mark,58,65,Not eligible,-7
+1013,Bob Lopez,9,Life Sciences,Science,natural_science_mark,58,55,Recommended,3
+1013,Bob Lopez,9,Accounting,Commerce,ems_mark,86,60,Recommended,26
+1013,Bob Lopez,9,Business Studies,Commerce,ems_mark,86,50,Recommended,36
+1013,Bob Lopez,9,Geography,Humanities,social_science_mark,76,50,Recommended,26
+1013,Bob Lopez,9,History,Humanities,social_science_mark,76,50,Recommended,26
+1013,Bob Lopez,9,Visual Arts,Arts,creative_arts_mark,91,60,Recommended,31
+1013,Bob Lopez,9,Computer Applications Technology,Technology,math_mark,82,55,Recommended,27
+1013,Bob Lopez,9,Information Technology,Technology,math_mark,82,70,Recommended,12
+1014,Frank Johnson,9,English,Core,english_mark,35,0,Recommended,35
+1014,Frank Johnson,9,Life Orientation,Core,english_mark,35,0,Recommended,35
+1014,Frank Johnson,9,Mathematics,Core,math_mark,93,60,Recommended,33
+1014,Frank Johnson,9,Mathematical Literacy,Core,math_mark,93,0,Recommended,93
+1014,Frank Johnson,9,Physical Sciences,Science,natural_science_mark,50,65,Not eligible,-15
+1014,Frank Johnson,9,Life Sciences,Science,natural_science_mark,50,55,Not eligible,-5
+1014,Frank Johnson,9,Accounting,Commerce,ems_mark,84,60,Recommended,24
+1014,Frank Johnson,9,Business Studies,Commerce,ems_mark,84,50,Recommended,34
+1014,Frank Johnson,9,Geography,Humanities,social_science_mark,45,50,Not eligible,-5
+1014,Frank Johnson,9,History,Humanities,social_science_mark,45,50,Not eligible,-5
+1014,Frank Johnson,9,Visual Arts,Arts,creative_arts_mark,58,60,Not eligible,-2
+1014,Frank Johnson,9,Computer Applications Technology,Technology,math_mark,93,55,Recommended,38
+1014,Frank Johnson,9,Information Technology,Technology,math_mark,93,70,Recommended,23
+1015,Trudy Anderson,9,English,Core,english_mark,72,0,Recommended,72
+1015,Trudy Anderson,9,Life Orientation,Core,english_mark,72,0,Recommended,72
+1015,Trudy Anderson,9,Mathematics,Core,math_mark,84,60,Recommended,24
+1015,Trudy Anderson,9,Mathematical Literacy,Core,math_mark,84,0,Recommended,84
+1015,Trudy Anderson,9,Physical Sciences,Science,natural_science_mark,74,65,Recommended,9
+1015,Trudy Anderson,9,Life Sciences,Science,natural_science_mark,74,55,Recommended,19
+1015,Trudy Anderson,9,Accounting,Commerce,ems_mark,58,60,Not eligible,-2
+1015,Trudy Anderson,9,Business Studies,Commerce,ems_mark,58,50,Recommended,8
+1015,Trudy Anderson,9,Geography,Humanities,social_science_mark,41,50,Not eligible,-9
+1015,Trudy Anderson,9,History,Humanities,social_science_mark,41,50,Not eligible,-9
+1015,Trudy Anderson,9,Visual Arts,Arts,creative_arts_mark,45,60,Not eligible,-15
+1015,Trudy Anderson,9,Computer Applications Technology,Technology,math_mark,84,55,Recommended,29
+1015,Trudy Anderson,9,Information Technology,Technology,math_mark,84,70,Recommended,14
+1016,Alice Jackson,9,English,Core,english_mark,76,0,Recommended,76
+1016,Alice Jackson,9,Life Orientation,Core,english_mark,76,0,Recommended,76
+1016,Alice Jackson,9,Mathematics,Core,math_mark,70,60,Recommended,10
+1016,Alice Jackson,9,Mathematical Literacy,Core,math_mark,70,0,Recommended,70
+1016,Alice Jackson,9,Physical Sciences,Science,natural_science_mark,35,65,Not eligible,-30
+1016,Alice Jackson,9,Life Sciences,Science,natural_science_mark,35,55,Not eligible,-20
+1016,Alice Jackson,9,Accounting,Commerce,ems_mark,88,60,Recommended,28
+1016,Alice Jackson,9,Business Studies,Commerce,ems_mark,88,50,Recommended,38
+1016,Alice Jackson,9,Geography,Humanities,social_science_mark,63,50,Recommended,13
+1016,Alice Jackson,9,History,Humanities,social_science_mark,63,50,Recommended,13
+1016,Alice Jackson,9,Visual Arts,Arts,creative_arts_mark,84,60,Recommended,24
+1016,Alice Jackson,9,Computer Applications Technology,Technology,math_mark,70,55,Recommended,15
+1016,Alice Jackson,9,Information Technology,Technology,math_mark,70,70,Recommended,0
+1017,Alice Lopez,9,English,Core,english_mark,45,0,Recommended,45
+1017,Alice Lopez,9,Life Orientation,Core,english_mark,45,0,Recommended,45
+1017,Alice Lopez,9,Mathematics,Core,math_mark,40,60,Not eligible,-20
+1017,Alice Lopez,9,Mathematical Literacy,Core,math_mark,40,0,Recommended,40
+1017,Alice Lopez,9,Physical Sciences,Science,natural_science_mark,81,65,Recommended,16
+1017,Alice Lopez,9,Life Sciences,Science,natural_science_mark,81,55,Recommended,26
+1017,Alice Lopez,9,Accounting,Commerce,ems_mark,67,60,Recommended,7
+1017,Alice Lopez,9,Business Studies,Commerce,ems_mark,67,50,Recommended,17
+1017,Alice Lopez,9,Geography,Humanities,social_science_mark,49,50,Not eligible,-1
+1017,Alice Lopez,9,History,Humanities,social_science_mark,49,50,Not eligible,-1
+1017,Alice Lopez,9,Visual Arts,Arts,creative_arts_mark,68,60,Recommended,8
+1017,Alice Lopez,9,Computer Applications Technology,Technology,math_mark,40,55,Not eligible,-15
+1017,Alice Lopez,9,Information Technology,Technology,math_mark,40,70,Not eligible,-30
+1018,Heidi Moore,9,English,Core,english_mark,69,0,Recommended,69
+1018,Heidi Moore,9,Life Orientation,Core,english_mark,69,0,Recommended,69
+1018,Heidi Moore,9,Mathematics,Core,math_mark,55,60,Not eligible,-5
+1018,Heidi Moore,9,Mathematical Literacy,Core,math_mark,55,0,Recommended,55
+1018,Heidi Moore,9,Physical Sciences,Science,natural_science_mark,93,65,Recommended,28
+1018,Heidi Moore,9,Life Sciences,Science,natural_science_mark,93,55,Recommended,38
+1018,Heidi Moore,9,Accounting,Commerce,ems_mark,70,60,Recommended,10
+1018,Heidi Moore,9,Business Studies,Commerce,ems_mark,70,50,Recommended,20
+1018,Heidi Moore,9,Geography,Humanities,social_science_mark,59,50,Recommended,9
+1018,Heidi Moore,9,History,Humanities,social_science_mark,59,50,Recommended,9
+1018,Heidi Moore,9,Visual Arts,Arts,creative_arts_mark,83,60,Recommended,23
+1018,Heidi Moore,9,Computer Applications Technology,Technology,math_mark,55,55,Recommended,0
+1018,Heidi Moore,9,Information Technology,Technology,math_mark,55,70,Not eligible,-15
+1019,Peggy Garcia,9,English,Core,english_mark,49,0,Recommended,49
+1019,Peggy Garcia,9,Life Orientation,Core,english_mark,49,0,Recommended,49
+1019,Peggy Garcia,9,Mathematics,Core,math_mark,69,60,Recommended,9
+1019,Peggy Garcia,9,Mathematical Literacy,Core,math_mark,69,0,Recommended,69
+1019,Peggy Garcia,9,Physical Sciences,Science,natural_science_mark,82,65,Recommended,17
+1019,Peggy Garcia,9,Life Sciences,Science,natural_science_mark,82,55,Recommended,27
+1019,Peggy Garcia,9,Accounting,Commerce,ems_mark,54,60,Not eligible,-6
+1019,Peggy Garcia,9,Business Studies,Commerce,ems_mark,54,50,Recommended,4
+1019,Peggy Garcia,9,Geography,Humanities,social_science_mark,55,50,Recommended,5
+1019,Peggy Garcia,9,History,Humanities,social_science_mark,55,50,Recommended,5
+1019,Peggy Garcia,9,Visual Arts,Arts,creative_arts_mark,75,60,Recommended,15
+1019,Peggy Garcia,9,Computer Applications Technology,Technology,math_mark,69,55,Recommended,14
+1019,Peggy Garcia,9,Information Technology,Technology,math_mark,69,70,Not eligible,-1
+1020,Alice Moore,9,English,Core,english_mark,61,0,Recommended,61
+1020,Alice Moore,9,Life Orientation,Core,english_mark,61,0,Recommended,61
+1020,Alice Moore,9,Mathematics,Core,math_mark,39,60,Not eligible,-21
+1020,Alice Moore,9,Mathematical Literacy,Core,math_mark,39,0,Recommended,39
+1020,Alice Moore,9,Physical Sciences,Science,natural_science_mark,57,65,Not eligible,-8
+1020,Alice Moore,9,Life Sciences,Science,natural_science_mark,57,55,Recommended,2
+1020,Alice Moore,9,Accounting,Commerce,ems_mark,74,60,Recommended,14
+1020,Alice Moore,9,Business Studies,Commerce,ems_mark,74,50,Recommended,24
+1020,Alice Moore,9,Geography,Humanities,social_science_mark,74,50,Recommended,24
+1020,Alice Moore,9,History,Humanities,social_science_mark,74,50,Recommended,24
+1020,Alice Moore,9,Visual Arts,Arts,creative_arts_mark,67,60,Recommended,7
+1020,Alice Moore,9,Computer Applications Technology,Technology,math_mark,39,55,Not eligible,-16
+1020,Alice Moore,9,Information Technology,Technology,math_mark,39,70,Not eligible,-31
+1021,Mallory Garcia,9,English,Core,english_mark,73,0,Recommended,73
+1021,Mallory Garcia,9,Life Orientation,Core,english_mark,73,0,Recommended,73
+1021,Mallory Garcia,9,Mathematics,Core,math_mark,32,60,Not eligible,-28
+1021,Mallory Garcia,9,Mathematical Literacy,Core,math_mark,32,0,Recommended,32
+1021,Mallory Garcia,9,Physical Sciences,Science,natural_science_mark,29,65,Not eligible,-36
+1021,Mallory Garcia,9,Life Sciences,Science,natural_science_mark,29,55,Not eligible,-26
+1021,Mallory Garcia,9,Accounting,Commerce,ems_mark,52,60,Not eligible,-8
+1021,Mallory Garcia,9,Business Studies,Commerce,ems_mark,52,50,Recommended,2
+1021,Mallory Garcia,9,Geography,Humanities,social_science_mark,75,50,Recommended,25
+1021,Mallory Garcia,9,History,Humanities,social_science_mark,75,50,Recommended,25
+1021,Mallory Garcia,9,Visual Arts,Arts,creative_arts_mark,94,60,Recommended,34
+1021,Mallory Garcia,9,Computer Applications Technology,Technology,math_mark,32,55,Not eligible,-23
+1021,Mallory Garcia,9,Information Technology,Technology,math_mark,32,70,Not eligible,-38
+1022,Charlie Williams,9,English,Core,english_mark,75,0,Recommended,75
+1022,Charlie Williams,9,Life Orientation,Core,english_mark,75,0,Recommended,75
+1022,Charlie Williams,9,Mathematics,Core,math_mark,60,60,Recommended,0
+1022,Charlie Williams,9,Mathematical Literacy,Core,math_mark,60,0,Recommended,60
+1022,Charlie Williams,9,Physical Sciences,Science,natural_science_mark,87,65,Recommended,22
+1022,Charlie Williams,9,Life Sciences,Science,natural_science_mark,87,55,Recommended,32
+1022,Charlie Williams,9,Accounting,Commerce,ems_mark,59,60,Not eligible,-1
+1022,Charlie Williams,9,Business Studies,Commerce,ems_mark,59,50,Recommended,9
+1022,Charlie Williams,9,Geography,Humanities,social_science_mark,70,50,Recommended,20
+1022,Charlie Williams,9,History,Humanities,social_science_mark,70,50,Recommended,20
+1022,Charlie Williams,9,Visual Arts,Arts,creative_arts_mark,69,60,Recommended,9
+1022,Charlie Williams,9,Computer Applications Technology,Technology,math_mark,60,55,Recommended,5
+1022,Charlie Williams,9,Information Technology,Technology,math_mark,60,70,Not eligible,-10
+1023,Sam Smith,9,English,Core,english_mark,70,0,Recommended,70
+1023,Sam Smith,9,Life Orientation,Core,english_mark,70,0,Recommended,70
+1023,Sam Smith,9,Mathematics,Core,math_mark,51,60,Not eligible,-9
+1023,Sam Smith,9,Mathematical Literacy,Core,math_mark,51,0,Recommended,51
+1023,Sam Smith,9,Physical Sciences,Science,natural_science_mark,53,65,Not eligible,-12
+1023,Sam Smith,9,Life Sciences,Science,natural_science_mark,53,55,Not eligible,-2
+1023,Sam Smith,9,Accounting,Commerce,ems_mark,62,60,Recommended,2
+1023,Sam Smith,9,Business Studies,Commerce,ems_mark,62,50,Recommended,12
+1023,Sam Smith,9,Geography,Humanities,social_science_mark,51,50,Recommended,1
+1023,Sam Smith,9,History,Humanities,social_science_mark,51,50,Recommended,1
+1023,Sam Smith,9,Visual Arts,Arts,creative_arts_mark,94,60,Recommended,34
+1023,Sam Smith,9,Computer Applications Technology,Technology,math_mark,51,55,Not eligible,-4
+1023,Sam Smith,9,Information Technology,Technology,math_mark,51,70,Not eligible,-19
+1024,Bob Johnson,9,English,Core,english_mark,56,0,Recommended,56
+1024,Bob Johnson,9,Life Orientation,Core,english_mark,56,0,Recommended,56
+1024,Bob Johnson,9,Mathematics,Core,math_mark,63,60,Recommended,3
+1024,Bob Johnson,9,Mathematical Literacy,Core,math_mark,63,0,Recommended,63
+1024,Bob Johnson,9,Physical Sciences,Science,natural_science_mark,32,65,Not eligible,-33
+1024,Bob Johnson,9,Life Sciences,Science,natural_science_mark,32,55,Not eligible,-23
+1024,Bob Johnson,9,Accounting,Commerce,ems_mark,87,60,Recommended,27
+1024,Bob Johnson,9,Business Studies,Commerce,ems_mark,87,50,Recommended,37
+1024,Bob Johnson,9,Geography,Humanities,social_science_mark,43,50,Not eligible,-7
+1024,Bob Johnson,9,History,Humanities,social_science_mark,43,50,Not eligible,-7
+1024,Bob Johnson,9,Visual Arts,Arts,creative_arts_mark,68,60,Recommended,8
+1024,Bob Johnson,9,Computer Applications Technology,Technology,math_mark,63,55,Recommended,8
+1024,Bob Johnson,9,Information Technology,Technology,math_mark,63,70,Not eligible,-7
+1025,Frank Williams,9,English,Core,english_mark,58,0,Recommended,58
+1025,Frank Williams,9,Life Orientation,Core,english_mark,58,0,Recommended,58
+1025,Frank Williams,9,Mathematics,Core,math_mark,48,60,Not eligible,-12
+1025,Frank Williams,9,Mathematical Literacy,Core,math_mark,48,0,Recommended,48
+1025,Frank Williams,9,Physical Sciences,Science,natural_science_mark,54,65,Not eligible,-11
+1025,Frank Williams,9,Life Sciences,Science,natural_science_mark,54,55,Not eligible,-1
+1025,Frank Williams,9,Accounting,Commerce,ems_mark,46,60,Not eligible,-14
+1025,Frank Williams,9,Business Studies,Commerce,ems_mark,46,50,Not eligible,-4
+1025,Frank Williams,9,Geography,Humanities,social_science_mark,91,50,Recommended,41
+1025,Frank Williams,9,History,Humanities,social_science_mark,91,50,Recommended,41
+1025,Frank Williams,9,Visual Arts,Arts,creative_arts_mark,41,60,Not eligible,-19
+1025,Frank Williams,9,Computer Applications Technology,Technology,math_mark,48,55,Not eligible,-7
+1025,Frank Williams,9,Information Technology,Technology,math_mark,48,70,Not eligible,-22
+1026,Bob Lopez,9,English,Core,english_mark,79,0,Recommended,79
+1026,Bob Lopez,9,Life Orientation,Core,english_mark,79,0,Recommended,79
+1026,Bob Lopez,9,Mathematics,Core,math_mark,62,60,Recommended,2
+1026,Bob Lopez,9,Mathematical Literacy,Core,math_mark,62,0,Recommended,62
+1026,Bob Lopez,9,Physical Sciences,Science,natural_science_mark,47,65,Not eligible,-18
+1026,Bob Lopez,9,Life Sciences,Science,natural_science_mark,47,55,Not eligible,-8
+1026,Bob Lopez,9,Accounting,Commerce,ems_mark,54,60,Not eligible,-6
+1026,Bob Lopez,9,Business Studies,Commerce,ems_mark,54,50,Recommended,4
+1026,Bob Lopez,9,Geography,Humanities,social_science_mark,37,50,Not eligible,-13
+1026,Bob Lopez,9,History,Humanities,social_science_mark,37,50,Not eligible,-13
+1026,Bob Lopez,9,Visual Arts,Arts,creative_arts_mark,50,60,Not eligible,-10
+1026,Bob Lopez,9,Computer Applications Technology,Technology,math_mark,62,55,Recommended,7
+1026,Bob Lopez,9,Information Technology,Technology,math_mark,62,70,Not eligible,-8
+1027,Eve Davis,9,English,Core,english_mark,94,0,Recommended,94
+1027,Eve Davis,9,Life Orientation,Core,english_mark,94,0,Recommended,94
+1027,Eve Davis,9,Mathematics,Core,math_mark,42,60,Not eligible,-18
+1027,Eve Davis,9,Mathematical Literacy,Core,math_mark,42,0,Recommended,42
+1027,Eve Davis,9,Physical Sciences,Science,natural_science_mark,81,65,Recommended,16
+1027,Eve Davis,9,Life Sciences,Science,natural_science_mark,81,55,Recommended,26
+1027,Eve Davis,9,Accounting,Commerce,ems_mark,63,60,Recommended,3
+1027,Eve Davis,9,Business Studies,Commerce,ems_mark,63,50,Recommended,13
+1027,Eve Davis,9,Geography,Humanities,social_science_mark,81,50,Recommended,31
+1027,Eve Davis,9,History,Humanities,social_science_mark,81,50,Recommended,31
+1027,Eve Davis,9,Visual Arts,Arts,creative_arts_mark,70,60,Recommended,10
+1027,Eve Davis,9,Computer Applications Technology,Technology,math_mark,42,55,Not eligible,-13
+1027,Eve Davis,9,Information Technology,Technology,math_mark,42,70,Not eligible,-28
+1028,Quentin Thomas,9,English,Core,english_mark,82,0,Recommended,82
+1028,Quentin Thomas,9,Life Orientation,Core,english_mark,82,0,Recommended,82
+1028,Quentin Thomas,9,Mathematics,Core,math_mark,76,60,Recommended,16
+1028,Quentin Thomas,9,Mathematical Literacy,Core,math_mark,76,0,Recommended,76
+1028,Quentin Thomas,9,Physical Sciences,Science,natural_science_mark,50,65,Not eligible,-15
+1028,Quentin Thomas,9,Life Sciences,Science,natural_science_mark,50,55,Not eligible,-5
+1028,Quentin Thomas,9,Accounting,Commerce,ems_mark,32,60,Not eligible,-28
+1028,Quentin Thomas,9,Business Studies,Commerce,ems_mark,32,50,Not eligible,-18
+1028,Quentin Thomas,9,Geography,Humanities,social_science_mark,69,50,Recommended,19
+1028,Quentin Thomas,9,History,Humanities,social_science_mark,69,50,Recommended,19
+1028,Quentin Thomas,9,Visual Arts,Arts,creative_arts_mark,95,60,Recommended,35
+1028,Quentin Thomas,9,Computer Applications Technology,Technology,math_mark,76,55,Recommended,21
+1028,Quentin Thomas,9,Information Technology,Technology,math_mark,76,70,Recommended,6
+1029,Bob Davis,9,English,Core,english_mark,70,0,Recommended,70
+1029,Bob Davis,9,Life Orientation,Core,english_mark,70,0,Recommended,70
+1029,Bob Davis,9,Mathematics,Core,math_mark,56,60,Not eligible,-4
+1029,Bob Davis,9,Mathematical Literacy,Core,math_mark,56,0,Recommended,56
+1029,Bob Davis,9,Physical Sciences,Science,natural_science_mark,33,65,Not eligible,-32
+1029,Bob Davis,9,Life Sciences,Science,natural_science_mark,33,55,Not eligible,-22
+1029,Bob Davis,9,Accounting,Commerce,ems_mark,67,60,Recommended,7
+1029,Bob Davis,9,Business Studies,Commerce,ems_mark,67,50,Recommended,17
+1029,Bob Davis,9,Geography,Humanities,social_science_mark,89,50,Recommended,39
+1029,Bob Davis,9,History,Humanities,social_science_mark,89,50,Recommended,39
+1029,Bob Davis,9,Visual Arts,Arts,creative_arts_mark,48,60,Not eligible,-12
+1029,Bob Davis,9,Computer Applications Technology,Technology,math_mark,56,55,Recommended,1
+1029,Bob Davis,9,Information Technology,Technology,math_mark,56,70,Not eligible,-14
+1030,Rita Lopez,9,English,Core,english_mark,46,0,Recommended,46
+1030,Rita Lopez,9,Life Orientation,Core,english_mark,46,0,Recommended,46
+1030,Rita Lopez,9,Mathematics,Core,math_mark,67,60,Recommended,7
+1030,Rita Lopez,9,Mathematical Literacy,Core,math_mark,67,0,Recommended,67
+1030,Rita Lopez,9,Physical Sciences,Science,natural_science_mark,42,65,Not eligible,-23
+1030,Rita Lopez,9,Life Sciences,Science,natural_science_mark,42,55,Not eligible,-13
+1030,Rita Lopez,9,Accounting,Commerce,ems_mark,67,60,Recommended,7
+1030,Rita Lopez,9,Business Studies,Commerce,ems_mark,67,50,Recommended,17
+1030,Rita Lopez,9,Geography,Humanities,social_science_mark,40,50,Not eligible,-10
+1030,Rita Lopez,9,History,Humanities,social_science_mark,40,50,Not eligible,-10
+1030,Rita Lopez,9,Visual Arts,Arts,creative_arts_mark,46,60,Not eligible,-14
+1030,Rita Lopez,9,Computer Applications Technology,Technology,math_mark,67,55,Recommended,12
+1030,Rita Lopez,9,Information Technology,Technology,math_mark,67,70,Not eligible,-3
+1031,Ivan Lopez,9,English,Core,english_mark,68,0,Recommended,68
+1031,Ivan Lopez,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1031,Ivan Lopez,9,Mathematics,Core,math_mark,63,60,Recommended,3
+1031,Ivan Lopez,9,Mathematical Literacy,Core,math_mark,63,0,Recommended,63
+1031,Ivan Lopez,9,Physical Sciences,Science,natural_science_mark,71,65,Recommended,6
+1031,Ivan Lopez,9,Life Sciences,Science,natural_science_mark,71,55,Recommended,16
+1031,Ivan Lopez,9,Accounting,Commerce,ems_mark,83,60,Recommended,23
+1031,Ivan Lopez,9,Business Studies,Commerce,ems_mark,83,50,Recommended,33
+1031,Ivan Lopez,9,Geography,Humanities,social_science_mark,36,50,Not eligible,-14
+1031,Ivan Lopez,9,History,Humanities,social_science_mark,36,50,Not eligible,-14
+1031,Ivan Lopez,9,Visual Arts,Arts,creative_arts_mark,88,60,Recommended,28
+1031,Ivan Lopez,9,Computer Applications Technology,Technology,math_mark,63,55,Recommended,8
+1031,Ivan Lopez,9,Information Technology,Technology,math_mark,63,70,Not eligible,-7
+1032,Frank Taylor,9,English,Core,english_mark,81,0,Recommended,81
+1032,Frank Taylor,9,Life Orientation,Core,english_mark,81,0,Recommended,81
+1032,Frank Taylor,9,Mathematics,Core,math_mark,76,60,Recommended,16
+1032,Frank Taylor,9,Mathematical Literacy,Core,math_mark,76,0,Recommended,76
+1032,Frank Taylor,9,Physical Sciences,Science,natural_science_mark,89,65,Recommended,24
+1032,Frank Taylor,9,Life Sciences,Science,natural_science_mark,89,55,Recommended,34
+1032,Frank Taylor,9,Accounting,Commerce,ems_mark,41,60,Not eligible,-19
+1032,Frank Taylor,9,Business Studies,Commerce,ems_mark,41,50,Not eligible,-9
+1032,Frank Taylor,9,Geography,Humanities,social_science_mark,41,50,Not eligible,-9
+1032,Frank Taylor,9,History,Humanities,social_science_mark,41,50,Not eligible,-9
+1032,Frank Taylor,9,Visual Arts,Arts,creative_arts_mark,90,60,Recommended,30
+1032,Frank Taylor,9,Computer Applications Technology,Technology,math_mark,76,55,Recommended,21
+1032,Frank Taylor,9,Information Technology,Technology,math_mark,76,70,Recommended,6
+1033,David Miller,9,English,Core,english_mark,67,0,Recommended,67
+1033,David Miller,9,Life Orientation,Core,english_mark,67,0,Recommended,67
+1033,David Miller,9,Mathematics,Core,math_mark,59,60,Not eligible,-1
+1033,David Miller,9,Mathematical Literacy,Core,math_mark,59,0,Recommended,59
+1033,David Miller,9,Physical Sciences,Science,natural_science_mark,86,65,Recommended,21
+1033,David Miller,9,Life Sciences,Science,natural_science_mark,86,55,Recommended,31
+1033,David Miller,9,Accounting,Commerce,ems_mark,34,60,Not eligible,-26
+1033,David Miller,9,Business Studies,Commerce,ems_mark,34,50,Not eligible,-16
+1033,David Miller,9,Geography,Humanities,social_science_mark,82,50,Recommended,32
+1033,David Miller,9,History,Humanities,social_science_mark,82,50,Recommended,32
+1033,David Miller,9,Visual Arts,Arts,creative_arts_mark,74,60,Recommended,14
+1033,David Miller,9,Computer Applications Technology,Technology,math_mark,59,55,Recommended,4
+1033,David Miller,9,Information Technology,Technology,math_mark,59,70,Not eligible,-11
+1034,Eve Thomas,9,English,Core,english_mark,49,0,Recommended,49
+1034,Eve Thomas,9,Life Orientation,Core,english_mark,49,0,Recommended,49
+1034,Eve Thomas,9,Mathematics,Core,math_mark,38,60,Not eligible,-22
+1034,Eve Thomas,9,Mathematical Literacy,Core,math_mark,38,0,Recommended,38
+1034,Eve Thomas,9,Physical Sciences,Science,natural_science_mark,82,65,Recommended,17
+1034,Eve Thomas,9,Life Sciences,Science,natural_science_mark,82,55,Recommended,27
+1034,Eve Thomas,9,Accounting,Commerce,ems_mark,48,60,Not eligible,-12
+1034,Eve Thomas,9,Business Studies,Commerce,ems_mark,48,50,Not eligible,-2
+1034,Eve Thomas,9,Geography,Humanities,social_science_mark,54,50,Recommended,4
+1034,Eve Thomas,9,History,Humanities,social_science_mark,54,50,Recommended,4
+1034,Eve Thomas,9,Visual Arts,Arts,creative_arts_mark,68,60,Recommended,8
+1034,Eve Thomas,9,Computer Applications Technology,Technology,math_mark,38,55,Not eligible,-17
+1034,Eve Thomas,9,Information Technology,Technology,math_mark,38,70,Not eligible,-32
+1035,Bob Johnson,9,English,Core,english_mark,52,0,Recommended,52
+1035,Bob Johnson,9,Life Orientation,Core,english_mark,52,0,Recommended,52
+1035,Bob Johnson,9,Mathematics,Core,math_mark,69,60,Recommended,9
+1035,Bob Johnson,9,Mathematical Literacy,Core,math_mark,69,0,Recommended,69
+1035,Bob Johnson,9,Physical Sciences,Science,natural_science_mark,70,65,Recommended,5
+1035,Bob Johnson,9,Life Sciences,Science,natural_science_mark,70,55,Recommended,15
+1035,Bob Johnson,9,Accounting,Commerce,ems_mark,73,60,Recommended,13
+1035,Bob Johnson,9,Business Studies,Commerce,ems_mark,73,50,Recommended,23
+1035,Bob Johnson,9,Geography,Humanities,social_science_mark,83,50,Recommended,33
+1035,Bob Johnson,9,History,Humanities,social_science_mark,83,50,Recommended,33
+1035,Bob Johnson,9,Visual Arts,Arts,creative_arts_mark,54,60,Not eligible,-6
+1035,Bob Johnson,9,Computer Applications Technology,Technology,math_mark,69,55,Recommended,14
+1035,Bob Johnson,9,Information Technology,Technology,math_mark,69,70,Not eligible,-1
+1036,Ivan Anderson,9,English,Core,english_mark,46,0,Recommended,46
+1036,Ivan Anderson,9,Life Orientation,Core,english_mark,46,0,Recommended,46
+1036,Ivan Anderson,9,Mathematics,Core,math_mark,44,60,Not eligible,-16
+1036,Ivan Anderson,9,Mathematical Literacy,Core,math_mark,44,0,Recommended,44
+1036,Ivan Anderson,9,Physical Sciences,Science,natural_science_mark,67,65,Recommended,2
+1036,Ivan Anderson,9,Life Sciences,Science,natural_science_mark,67,55,Recommended,12
+1036,Ivan Anderson,9,Accounting,Commerce,ems_mark,94,60,Recommended,34
+1036,Ivan Anderson,9,Business Studies,Commerce,ems_mark,94,50,Recommended,44
+1036,Ivan Anderson,9,Geography,Humanities,social_science_mark,51,50,Recommended,1
+1036,Ivan Anderson,9,History,Humanities,social_science_mark,51,50,Recommended,1
+1036,Ivan Anderson,9,Visual Arts,Arts,creative_arts_mark,64,60,Recommended,4
+1036,Ivan Anderson,9,Computer Applications Technology,Technology,math_mark,44,55,Not eligible,-11
+1036,Ivan Anderson,9,Information Technology,Technology,math_mark,44,70,Not eligible,-26
+1037,Bob Brown,9,English,Core,english_mark,64,0,Recommended,64
+1037,Bob Brown,9,Life Orientation,Core,english_mark,64,0,Recommended,64
+1037,Bob Brown,9,Mathematics,Core,math_mark,41,60,Not eligible,-19
+1037,Bob Brown,9,Mathematical Literacy,Core,math_mark,41,0,Recommended,41
+1037,Bob Brown,9,Physical Sciences,Science,natural_science_mark,49,65,Not eligible,-16
+1037,Bob Brown,9,Life Sciences,Science,natural_science_mark,49,55,Not eligible,-6
+1037,Bob Brown,9,Accounting,Commerce,ems_mark,76,60,Recommended,16
+1037,Bob Brown,9,Business Studies,Commerce,ems_mark,76,50,Recommended,26
+1037,Bob Brown,9,Geography,Humanities,social_science_mark,72,50,Recommended,22
+1037,Bob Brown,9,History,Humanities,social_science_mark,72,50,Recommended,22
+1037,Bob Brown,9,Visual Arts,Arts,creative_arts_mark,87,60,Recommended,27
+1037,Bob Brown,9,Computer Applications Technology,Technology,math_mark,41,55,Not eligible,-14
+1037,Bob Brown,9,Information Technology,Technology,math_mark,41,70,Not eligible,-29
+1038,Alice Jackson,9,English,Core,english_mark,74,0,Recommended,74
+1038,Alice Jackson,9,Life Orientation,Core,english_mark,74,0,Recommended,74
+1038,Alice Jackson,9,Mathematics,Core,math_mark,95,60,Recommended,35
+1038,Alice Jackson,9,Mathematical Literacy,Core,math_mark,95,0,Recommended,95
+1038,Alice Jackson,9,Physical Sciences,Science,natural_science_mark,94,65,Recommended,29
+1038,Alice Jackson,9,Life Sciences,Science,natural_science_mark,94,55,Recommended,39
+1038,Alice Jackson,9,Accounting,Commerce,ems_mark,60,60,Recommended,0
+1038,Alice Jackson,9,Business Studies,Commerce,ems_mark,60,50,Recommended,10
+1038,Alice Jackson,9,Geography,Humanities,social_science_mark,82,50,Recommended,32
+1038,Alice Jackson,9,History,Humanities,social_science_mark,82,50,Recommended,32
+1038,Alice Jackson,9,Visual Arts,Arts,creative_arts_mark,90,60,Recommended,30
+1038,Alice Jackson,9,Computer Applications Technology,Technology,math_mark,95,55,Recommended,40
+1038,Alice Jackson,9,Information Technology,Technology,math_mark,95,70,Recommended,25
+1039,Grace Jackson,9,English,Core,english_mark,68,0,Recommended,68
+1039,Grace Jackson,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1039,Grace Jackson,9,Mathematics,Core,math_mark,44,60,Not eligible,-16
+1039,Grace Jackson,9,Mathematical Literacy,Core,math_mark,44,0,Recommended,44
+1039,Grace Jackson,9,Physical Sciences,Science,natural_science_mark,66,65,Recommended,1
+1039,Grace Jackson,9,Life Sciences,Science,natural_science_mark,66,55,Recommended,11
+1039,Grace Jackson,9,Accounting,Commerce,ems_mark,84,60,Recommended,24
+1039,Grace Jackson,9,Business Studies,Commerce,ems_mark,84,50,Recommended,34
+1039,Grace Jackson,9,Geography,Humanities,social_science_mark,92,50,Recommended,42
+1039,Grace Jackson,9,History,Humanities,social_science_mark,92,50,Recommended,42
+1039,Grace Jackson,9,Visual Arts,Arts,creative_arts_mark,83,60,Recommended,23
+1039,Grace Jackson,9,Computer Applications Technology,Technology,math_mark,44,55,Not eligible,-11
+1039,Grace Jackson,9,Information Technology,Technology,math_mark,44,70,Not eligible,-26
+1040,Mallory Taylor,9,English,Core,english_mark,40,0,Recommended,40
+1040,Mallory Taylor,9,Life Orientation,Core,english_mark,40,0,Recommended,40
+1040,Mallory Taylor,9,Mathematics,Core,math_mark,47,60,Not eligible,-13
+1040,Mallory Taylor,9,Mathematical Literacy,Core,math_mark,47,0,Recommended,47
+1040,Mallory Taylor,9,Physical Sciences,Science,natural_science_mark,34,65,Not eligible,-31
+1040,Mallory Taylor,9,Life Sciences,Science,natural_science_mark,34,55,Not eligible,-21
+1040,Mallory Taylor,9,Accounting,Commerce,ems_mark,31,60,Not eligible,-29
+1040,Mallory Taylor,9,Business Studies,Commerce,ems_mark,31,50,Not eligible,-19
+1040,Mallory Taylor,9,Geography,Humanities,social_science_mark,92,50,Recommended,42
+1040,Mallory Taylor,9,History,Humanities,social_science_mark,92,50,Recommended,42
+1040,Mallory Taylor,9,Visual Arts,Arts,creative_arts_mark,76,60,Recommended,16
+1040,Mallory Taylor,9,Computer Applications Technology,Technology,math_mark,47,55,Not eligible,-8
+1040,Mallory Taylor,9,Information Technology,Technology,math_mark,47,70,Not eligible,-23
+1041,Ivan Moore,9,English,Core,english_mark,68,0,Recommended,68
+1041,Ivan Moore,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1041,Ivan Moore,9,Mathematics,Core,math_mark,62,60,Recommended,2
+1041,Ivan Moore,9,Mathematical Literacy,Core,math_mark,62,0,Recommended,62
+1041,Ivan Moore,9,Physical Sciences,Science,natural_science_mark,90,65,Recommended,25
+1041,Ivan Moore,9,Life Sciences,Science,natural_science_mark,90,55,Recommended,35
+1041,Ivan Moore,9,Accounting,Commerce,ems_mark,53,60,Not eligible,-7
+1041,Ivan Moore,9,Business Studies,Commerce,ems_mark,53,50,Recommended,3
+1041,Ivan Moore,9,Geography,Humanities,social_science_mark,78,50,Recommended,28
+1041,Ivan Moore,9,History,Humanities,social_science_mark,78,50,Recommended,28
+1041,Ivan Moore,9,Visual Arts,Arts,creative_arts_mark,76,60,Recommended,16
+1041,Ivan Moore,9,Computer Applications Technology,Technology,math_mark,62,55,Recommended,7
+1041,Ivan Moore,9,Information Technology,Technology,math_mark,62,70,Not eligible,-8
+1042,Ivan Davis,9,English,Core,english_mark,92,0,Recommended,92
+1042,Ivan Davis,9,Life Orientation,Core,english_mark,92,0,Recommended,92
+1042,Ivan Davis,9,Mathematics,Core,math_mark,66,60,Recommended,6
+1042,Ivan Davis,9,Mathematical Literacy,Core,math_mark,66,0,Recommended,66
+1042,Ivan Davis,9,Physical Sciences,Science,natural_science_mark,93,65,Recommended,28
+1042,Ivan Davis,9,Life Sciences,Science,natural_science_mark,93,55,Recommended,38
+1042,Ivan Davis,9,Accounting,Commerce,ems_mark,77,60,Recommended,17
+1042,Ivan Davis,9,Business Studies,Commerce,ems_mark,77,50,Recommended,27
+1042,Ivan Davis,9,Geography,Humanities,social_science_mark,76,50,Recommended,26
+1042,Ivan Davis,9,History,Humanities,social_science_mark,76,50,Recommended,26
+1042,Ivan Davis,9,Visual Arts,Arts,creative_arts_mark,76,60,Recommended,16
+1042,Ivan Davis,9,Computer Applications Technology,Technology,math_mark,66,55,Recommended,11
+1042,Ivan Davis,9,Information Technology,Technology,math_mark,66,70,Not eligible,-4
+1043,Rita Wilson,9,English,Core,english_mark,41,0,Recommended,41
+1043,Rita Wilson,9,Life Orientation,Core,english_mark,41,0,Recommended,41
+1043,Rita Wilson,9,Mathematics,Core,math_mark,67,60,Recommended,7
+1043,Rita Wilson,9,Mathematical Literacy,Core,math_mark,67,0,Recommended,67
+1043,Rita Wilson,9,Physical Sciences,Science,natural_science_mark,52,65,Not eligible,-13
+1043,Rita Wilson,9,Life Sciences,Science,natural_science_mark,52,55,Not eligible,-3
+1043,Rita Wilson,9,Accounting,Commerce,ems_mark,71,60,Recommended,11
+1043,Rita Wilson,9,Business Studies,Commerce,ems_mark,71,50,Recommended,21
+1043,Rita Wilson,9,Geography,Humanities,social_science_mark,50,50,Recommended,0
+1043,Rita Wilson,9,History,Humanities,social_science_mark,50,50,Recommended,0
+1043,Rita Wilson,9,Visual Arts,Arts,creative_arts_mark,76,60,Recommended,16
+1043,Rita Wilson,9,Computer Applications Technology,Technology,math_mark,67,55,Recommended,12
+1043,Rita Wilson,9,Information Technology,Technology,math_mark,67,70,Not eligible,-3
+1044,Peggy Rodriguez,9,English,Core,english_mark,84,0,Recommended,84
+1044,Peggy Rodriguez,9,Life Orientation,Core,english_mark,84,0,Recommended,84
+1044,Peggy Rodriguez,9,Mathematics,Core,math_mark,86,60,Recommended,26
+1044,Peggy Rodriguez,9,Mathematical Literacy,Core,math_mark,86,0,Recommended,86
+1044,Peggy Rodriguez,9,Physical Sciences,Science,natural_science_mark,28,65,Not eligible,-37
+1044,Peggy Rodriguez,9,Life Sciences,Science,natural_science_mark,28,55,Not eligible,-27
+1044,Peggy Rodriguez,9,Accounting,Commerce,ems_mark,51,60,Not eligible,-9
+1044,Peggy Rodriguez,9,Business Studies,Commerce,ems_mark,51,50,Recommended,1
+1044,Peggy Rodriguez,9,Geography,Humanities,social_science_mark,36,50,Not eligible,-14
+1044,Peggy Rodriguez,9,History,Humanities,social_science_mark,36,50,Not eligible,-14
+1044,Peggy Rodriguez,9,Visual Arts,Arts,creative_arts_mark,65,60,Recommended,5
+1044,Peggy Rodriguez,9,Computer Applications Technology,Technology,math_mark,86,55,Recommended,31
+1044,Peggy Rodriguez,9,Information Technology,Technology,math_mark,86,70,Recommended,16
+1045,Sam Garcia,9,English,Core,english_mark,77,0,Recommended,77
+1045,Sam Garcia,9,Life Orientation,Core,english_mark,77,0,Recommended,77
+1045,Sam Garcia,9,Mathematics,Core,math_mark,79,60,Recommended,19
+1045,Sam Garcia,9,Mathematical Literacy,Core,math_mark,79,0,Recommended,79
+1045,Sam Garcia,9,Physical Sciences,Science,natural_science_mark,52,65,Not eligible,-13
+1045,Sam Garcia,9,Life Sciences,Science,natural_science_mark,52,55,Not eligible,-3
+1045,Sam Garcia,9,Accounting,Commerce,ems_mark,45,60,Not eligible,-15
+1045,Sam Garcia,9,Business Studies,Commerce,ems_mark,45,50,Not eligible,-5
+1045,Sam Garcia,9,Geography,Humanities,social_science_mark,51,50,Recommended,1
+1045,Sam Garcia,9,History,Humanities,social_science_mark,51,50,Recommended,1
+1045,Sam Garcia,9,Visual Arts,Arts,creative_arts_mark,89,60,Recommended,29
+1045,Sam Garcia,9,Computer Applications Technology,Technology,math_mark,79,55,Recommended,24
+1045,Sam Garcia,9,Information Technology,Technology,math_mark,79,70,Recommended,9
+1046,Quentin Jackson,9,English,Core,english_mark,52,0,Recommended,52
+1046,Quentin Jackson,9,Life Orientation,Core,english_mark,52,0,Recommended,52
+1046,Quentin Jackson,9,Mathematics,Core,math_mark,72,60,Recommended,12
+1046,Quentin Jackson,9,Mathematical Literacy,Core,math_mark,72,0,Recommended,72
+1046,Quentin Jackson,9,Physical Sciences,Science,natural_science_mark,85,65,Recommended,20
+1046,Quentin Jackson,9,Life Sciences,Science,natural_science_mark,85,55,Recommended,30
+1046,Quentin Jackson,9,Accounting,Commerce,ems_mark,91,60,Recommended,31
+1046,Quentin Jackson,9,Business Studies,Commerce,ems_mark,91,50,Recommended,41
+1046,Quentin Jackson,9,Geography,Humanities,social_science_mark,36,50,Not eligible,-14
+1046,Quentin Jackson,9,History,Humanities,social_science_mark,36,50,Not eligible,-14
+1046,Quentin Jackson,9,Visual Arts,Arts,creative_arts_mark,91,60,Recommended,31
+1046,Quentin Jackson,9,Computer Applications Technology,Technology,math_mark,72,55,Recommended,17
+1046,Quentin Jackson,9,Information Technology,Technology,math_mark,72,70,Recommended,2
+1047,Rita Miller,9,English,Core,english_mark,75,0,Recommended,75
+1047,Rita Miller,9,Life Orientation,Core,english_mark,75,0,Recommended,75
+1047,Rita Miller,9,Mathematics,Core,math_mark,78,60,Recommended,18
+1047,Rita Miller,9,Mathematical Literacy,Core,math_mark,78,0,Recommended,78
+1047,Rita Miller,9,Physical Sciences,Science,natural_science_mark,31,65,Not eligible,-34
+1047,Rita Miller,9,Life Sciences,Science,natural_science_mark,31,55,Not eligible,-24
+1047,Rita Miller,9,Accounting,Commerce,ems_mark,60,60,Recommended,0
+1047,Rita Miller,9,Business Studies,Commerce,ems_mark,60,50,Recommended,10
+1047,Rita Miller,9,Geography,Humanities,social_science_mark,59,50,Recommended,9
+1047,Rita Miller,9,History,Humanities,social_science_mark,59,50,Recommended,9
+1047,Rita Miller,9,Visual Arts,Arts,creative_arts_mark,92,60,Recommended,32
+1047,Rita Miller,9,Computer Applications Technology,Technology,math_mark,78,55,Recommended,23
+1047,Rita Miller,9,Information Technology,Technology,math_mark,78,70,Recommended,8
+1048,Eve Taylor,9,English,Core,english_mark,52,0,Recommended,52
+1048,Eve Taylor,9,Life Orientation,Core,english_mark,52,0,Recommended,52
+1048,Eve Taylor,9,Mathematics,Core,math_mark,81,60,Recommended,21
+1048,Eve Taylor,9,Mathematical Literacy,Core,math_mark,81,0,Recommended,81
+1048,Eve Taylor,9,Physical Sciences,Science,natural_science_mark,64,65,Not eligible,-1
+1048,Eve Taylor,9,Life Sciences,Science,natural_science_mark,64,55,Recommended,9
+1048,Eve Taylor,9,Accounting,Commerce,ems_mark,33,60,Not eligible,-27
+1048,Eve Taylor,9,Business Studies,Commerce,ems_mark,33,50,Not eligible,-17
+1048,Eve Taylor,9,Geography,Humanities,social_science_mark,76,50,Recommended,26
+1048,Eve Taylor,9,History,Humanities,social_science_mark,76,50,Recommended,26
+1048,Eve Taylor,9,Visual Arts,Arts,creative_arts_mark,88,60,Recommended,28
+1048,Eve Taylor,9,Computer Applications Technology,Technology,math_mark,81,55,Recommended,26
+1048,Eve Taylor,9,Information Technology,Technology,math_mark,81,70,Recommended,11
+1049,Heidi Davis,9,English,Core,english_mark,86,0,Recommended,86
+1049,Heidi Davis,9,Life Orientation,Core,english_mark,86,0,Recommended,86
+1049,Heidi Davis,9,Mathematics,Core,math_mark,86,60,Recommended,26
+1049,Heidi Davis,9,Mathematical Literacy,Core,math_mark,86,0,Recommended,86
+1049,Heidi Davis,9,Physical Sciences,Science,natural_science_mark,61,65,Not eligible,-4
+1049,Heidi Davis,9,Life Sciences,Science,natural_science_mark,61,55,Recommended,6
+1049,Heidi Davis,9,Accounting,Commerce,ems_mark,74,60,Recommended,14
+1049,Heidi Davis,9,Business Studies,Commerce,ems_mark,74,50,Recommended,24
+1049,Heidi Davis,9,Geography,Humanities,social_science_mark,95,50,Recommended,45
+1049,Heidi Davis,9,History,Humanities,social_science_mark,95,50,Recommended,45
+1049,Heidi Davis,9,Visual Arts,Arts,creative_arts_mark,81,60,Recommended,21
+1049,Heidi Davis,9,Computer Applications Technology,Technology,math_mark,86,55,Recommended,31
+1049,Heidi Davis,9,Information Technology,Technology,math_mark,86,70,Recommended,16
+1050,Bob Jackson,9,English,Core,english_mark,54,0,Recommended,54
+1050,Bob Jackson,9,Life Orientation,Core,english_mark,54,0,Recommended,54
+1050,Bob Jackson,9,Mathematics,Core,math_mark,87,60,Recommended,27
+1050,Bob Jackson,9,Mathematical Literacy,Core,math_mark,87,0,Recommended,87
+1050,Bob Jackson,9,Physical Sciences,Science,natural_science_mark,63,65,Not eligible,-2
+1050,Bob Jackson,9,Life Sciences,Science,natural_science_mark,63,55,Recommended,8
+1050,Bob Jackson,9,Accounting,Commerce,ems_mark,39,60,Not eligible,-21
+1050,Bob Jackson,9,Business Studies,Commerce,ems_mark,39,50,Not eligible,-11
+1050,Bob Jackson,9,Geography,Humanities,social_science_mark,49,50,Not eligible,-1
+1050,Bob Jackson,9,History,Humanities,social_science_mark,49,50,Not eligible,-1
+1050,Bob Jackson,9,Visual Arts,Arts,creative_arts_mark,72,60,Recommended,12
+1050,Bob Jackson,9,Computer Applications Technology,Technology,math_mark,87,55,Recommended,32
+1050,Bob Jackson,9,Information Technology,Technology,math_mark,87,70,Recommended,17
+1051,Nina Martinez,9,English,Core,english_mark,83,0,Recommended,83
+1051,Nina Martinez,9,Life Orientation,Core,english_mark,83,0,Recommended,83
+1051,Nina Martinez,9,Mathematics,Core,math_mark,30,60,Not eligible,-30
+1051,Nina Martinez,9,Mathematical Literacy,Core,math_mark,30,0,Recommended,30
+1051,Nina Martinez,9,Physical Sciences,Science,natural_science_mark,62,65,Not eligible,-3
+1051,Nina Martinez,9,Life Sciences,Science,natural_science_mark,62,55,Recommended,7
+1051,Nina Martinez,9,Accounting,Commerce,ems_mark,34,60,Not eligible,-26
+1051,Nina Martinez,9,Business Studies,Commerce,ems_mark,34,50,Not eligible,-16
+1051,Nina Martinez,9,Geography,Humanities,social_science_mark,91,50,Recommended,41
+1051,Nina Martinez,9,History,Humanities,social_science_mark,91,50,Recommended,41
+1051,Nina Martinez,9,Visual Arts,Arts,creative_arts_mark,47,60,Not eligible,-13
+1051,Nina Martinez,9,Computer Applications Technology,Technology,math_mark,30,55,Not eligible,-25
+1051,Nina Martinez,9,Information Technology,Technology,math_mark,30,70,Not eligible,-40
+1052,Sam Williams,9,English,Core,english_mark,66,0,Recommended,66
+1052,Sam Williams,9,Life Orientation,Core,english_mark,66,0,Recommended,66
+1052,Sam Williams,9,Mathematics,Core,math_mark,89,60,Recommended,29
+1052,Sam Williams,9,Mathematical Literacy,Core,math_mark,89,0,Recommended,89
+1052,Sam Williams,9,Physical Sciences,Science,natural_science_mark,70,65,Recommended,5
+1052,Sam Williams,9,Life Sciences,Science,natural_science_mark,70,55,Recommended,15
+1052,Sam Williams,9,Accounting,Commerce,ems_mark,86,60,Recommended,26
+1052,Sam Williams,9,Business Studies,Commerce,ems_mark,86,50,Recommended,36
+1052,Sam Williams,9,Geography,Humanities,social_science_mark,87,50,Recommended,37
+1052,Sam Williams,9,History,Humanities,social_science_mark,87,50,Recommended,37
+1052,Sam Williams,9,Visual Arts,Arts,creative_arts_mark,66,60,Recommended,6
+1052,Sam Williams,9,Computer Applications Technology,Technology,math_mark,89,55,Recommended,34
+1052,Sam Williams,9,Information Technology,Technology,math_mark,89,70,Recommended,19
+1053,Frank Miller,9,English,Core,english_mark,50,0,Recommended,50
+1053,Frank Miller,9,Life Orientation,Core,english_mark,50,0,Recommended,50
+1053,Frank Miller,9,Mathematics,Core,math_mark,95,60,Recommended,35
+1053,Frank Miller,9,Mathematical Literacy,Core,math_mark,95,0,Recommended,95
+1053,Frank Miller,9,Physical Sciences,Science,natural_science_mark,84,65,Recommended,19
+1053,Frank Miller,9,Life Sciences,Science,natural_science_mark,84,55,Recommended,29
+1053,Frank Miller,9,Accounting,Commerce,ems_mark,69,60,Recommended,9
+1053,Frank Miller,9,Business Studies,Commerce,ems_mark,69,50,Recommended,19
+1053,Frank Miller,9,Geography,Humanities,social_science_mark,44,50,Not eligible,-6
+1053,Frank Miller,9,History,Humanities,social_science_mark,44,50,Not eligible,-6
+1053,Frank Miller,9,Visual Arts,Arts,creative_arts_mark,75,60,Recommended,15
+1053,Frank Miller,9,Computer Applications Technology,Technology,math_mark,95,55,Recommended,40
+1053,Frank Miller,9,Information Technology,Technology,math_mark,95,70,Recommended,25
+1054,Peggy Jackson,9,English,Core,english_mark,88,0,Recommended,88
+1054,Peggy Jackson,9,Life Orientation,Core,english_mark,88,0,Recommended,88
+1054,Peggy Jackson,9,Mathematics,Core,math_mark,44,60,Not eligible,-16
+1054,Peggy Jackson,9,Mathematical Literacy,Core,math_mark,44,0,Recommended,44
+1054,Peggy Jackson,9,Physical Sciences,Science,natural_science_mark,55,65,Not eligible,-10
+1054,Peggy Jackson,9,Life Sciences,Science,natural_science_mark,55,55,Recommended,0
+1054,Peggy Jackson,9,Accounting,Commerce,ems_mark,77,60,Recommended,17
+1054,Peggy Jackson,9,Business Studies,Commerce,ems_mark,77,50,Recommended,27
+1054,Peggy Jackson,9,Geography,Humanities,social_science_mark,91,50,Recommended,41
+1054,Peggy Jackson,9,History,Humanities,social_science_mark,91,50,Recommended,41
+1054,Peggy Jackson,9,Visual Arts,Arts,creative_arts_mark,77,60,Recommended,17
+1054,Peggy Jackson,9,Computer Applications Technology,Technology,math_mark,44,55,Not eligible,-11
+1054,Peggy Jackson,9,Information Technology,Technology,math_mark,44,70,Not eligible,-26
+1055,Bob Gonzalez,9,English,Core,english_mark,48,0,Recommended,48
+1055,Bob Gonzalez,9,Life Orientation,Core,english_mark,48,0,Recommended,48
+1055,Bob Gonzalez,9,Mathematics,Core,math_mark,60,60,Recommended,0
+1055,Bob Gonzalez,9,Mathematical Literacy,Core,math_mark,60,0,Recommended,60
+1055,Bob Gonzalez,9,Physical Sciences,Science,natural_science_mark,68,65,Recommended,3
+1055,Bob Gonzalez,9,Life Sciences,Science,natural_science_mark,68,55,Recommended,13
+1055,Bob Gonzalez,9,Accounting,Commerce,ems_mark,80,60,Recommended,20
+1055,Bob Gonzalez,9,Business Studies,Commerce,ems_mark,80,50,Recommended,30
+1055,Bob Gonzalez,9,Geography,Humanities,social_science_mark,40,50,Not eligible,-10
+1055,Bob Gonzalez,9,History,Humanities,social_science_mark,40,50,Not eligible,-10
+1055,Bob Gonzalez,9,Visual Arts,Arts,creative_arts_mark,71,60,Recommended,11
+1055,Bob Gonzalez,9,Computer Applications Technology,Technology,math_mark,60,55,Recommended,5
+1055,Bob Gonzalez,9,Information Technology,Technology,math_mark,60,70,Not eligible,-10
+1056,Leo Garcia,9,English,Core,english_mark,63,0,Recommended,63
+1056,Leo Garcia,9,Life Orientation,Core,english_mark,63,0,Recommended,63
+1056,Leo Garcia,9,Mathematics,Core,math_mark,90,60,Recommended,30
+1056,Leo Garcia,9,Mathematical Literacy,Core,math_mark,90,0,Recommended,90
+1056,Leo Garcia,9,Physical Sciences,Science,natural_science_mark,82,65,Recommended,17
+1056,Leo Garcia,9,Life Sciences,Science,natural_science_mark,82,55,Recommended,27
+1056,Leo Garcia,9,Accounting,Commerce,ems_mark,55,60,Not eligible,-5
+1056,Leo Garcia,9,Business Studies,Commerce,ems_mark,55,50,Recommended,5
+1056,Leo Garcia,9,Geography,Humanities,social_science_mark,44,50,Not eligible,-6
+1056,Leo Garcia,9,History,Humanities,social_science_mark,44,50,Not eligible,-6
+1056,Leo Garcia,9,Visual Arts,Arts,creative_arts_mark,84,60,Recommended,24
+1056,Leo Garcia,9,Computer Applications Technology,Technology,math_mark,90,55,Recommended,35
+1056,Leo Garcia,9,Information Technology,Technology,math_mark,90,70,Recommended,20
+1057,Karl Jones,9,English,Core,english_mark,62,0,Recommended,62
+1057,Karl Jones,9,Life Orientation,Core,english_mark,62,0,Recommended,62
+1057,Karl Jones,9,Mathematics,Core,math_mark,95,60,Recommended,35
+1057,Karl Jones,9,Mathematical Literacy,Core,math_mark,95,0,Recommended,95
+1057,Karl Jones,9,Physical Sciences,Science,natural_science_mark,49,65,Not eligible,-16
+1057,Karl Jones,9,Life Sciences,Science,natural_science_mark,49,55,Not eligible,-6
+1057,Karl Jones,9,Accounting,Commerce,ems_mark,42,60,Not eligible,-18
+1057,Karl Jones,9,Business Studies,Commerce,ems_mark,42,50,Not eligible,-8
+1057,Karl Jones,9,Geography,Humanities,social_science_mark,89,50,Recommended,39
+1057,Karl Jones,9,History,Humanities,social_science_mark,89,50,Recommended,39
+1057,Karl Jones,9,Visual Arts,Arts,creative_arts_mark,82,60,Recommended,22
+1057,Karl Jones,9,Computer Applications Technology,Technology,math_mark,95,55,Recommended,40
+1057,Karl Jones,9,Information Technology,Technology,math_mark,95,70,Recommended,25
+1058,Trudy Anderson,9,English,Core,english_mark,78,0,Recommended,78
+1058,Trudy Anderson,9,Life Orientation,Core,english_mark,78,0,Recommended,78
+1058,Trudy Anderson,9,Mathematics,Core,math_mark,93,60,Recommended,33
+1058,Trudy Anderson,9,Mathematical Literacy,Core,math_mark,93,0,Recommended,93
+1058,Trudy Anderson,9,Physical Sciences,Science,natural_science_mark,40,65,Not eligible,-25
+1058,Trudy Anderson,9,Life Sciences,Science,natural_science_mark,40,55,Not eligible,-15
+1058,Trudy Anderson,9,Accounting,Commerce,ems_mark,35,60,Not eligible,-25
+1058,Trudy Anderson,9,Business Studies,Commerce,ems_mark,35,50,Not eligible,-15
+1058,Trudy Anderson,9,Geography,Humanities,social_science_mark,68,50,Recommended,18
+1058,Trudy Anderson,9,History,Humanities,social_science_mark,68,50,Recommended,18
+1058,Trudy Anderson,9,Visual Arts,Arts,creative_arts_mark,56,60,Not eligible,-4
+1058,Trudy Anderson,9,Computer Applications Technology,Technology,math_mark,93,55,Recommended,38
+1058,Trudy Anderson,9,Information Technology,Technology,math_mark,93,70,Recommended,23
+1059,Frank Davis,9,English,Core,english_mark,68,0,Recommended,68
+1059,Frank Davis,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1059,Frank Davis,9,Mathematics,Core,math_mark,73,60,Recommended,13
+1059,Frank Davis,9,Mathematical Literacy,Core,math_mark,73,0,Recommended,73
+1059,Frank Davis,9,Physical Sciences,Science,natural_science_mark,40,65,Not eligible,-25
+1059,Frank Davis,9,Life Sciences,Science,natural_science_mark,40,55,Not eligible,-15
+1059,Frank Davis,9,Accounting,Commerce,ems_mark,67,60,Recommended,7
+1059,Frank Davis,9,Business Studies,Commerce,ems_mark,67,50,Recommended,17
+1059,Frank Davis,9,Geography,Humanities,social_science_mark,76,50,Recommended,26
+1059,Frank Davis,9,History,Humanities,social_science_mark,76,50,Recommended,26
+1059,Frank Davis,9,Visual Arts,Arts,creative_arts_mark,78,60,Recommended,18
+1059,Frank Davis,9,Computer Applications Technology,Technology,math_mark,73,55,Recommended,18
+1059,Frank Davis,9,Information Technology,Technology,math_mark,73,70,Recommended,3
+1060,Oscar Miller,9,English,Core,english_mark,56,0,Recommended,56
+1060,Oscar Miller,9,Life Orientation,Core,english_mark,56,0,Recommended,56
+1060,Oscar Miller,9,Mathematics,Core,math_mark,76,60,Recommended,16
+1060,Oscar Miller,9,Mathematical Literacy,Core,math_mark,76,0,Recommended,76
+1060,Oscar Miller,9,Physical Sciences,Science,natural_science_mark,58,65,Not eligible,-7
+1060,Oscar Miller,9,Life Sciences,Science,natural_science_mark,58,55,Recommended,3
+1060,Oscar Miller,9,Accounting,Commerce,ems_mark,66,60,Recommended,6
+1060,Oscar Miller,9,Business Studies,Commerce,ems_mark,66,50,Recommended,16
+1060,Oscar Miller,9,Geography,Humanities,social_science_mark,83,50,Recommended,33
+1060,Oscar Miller,9,History,Humanities,social_science_mark,83,50,Recommended,33
+1060,Oscar Miller,9,Visual Arts,Arts,creative_arts_mark,72,60,Recommended,12
+1060,Oscar Miller,9,Computer Applications Technology,Technology,math_mark,76,55,Recommended,21
+1060,Oscar Miller,9,Information Technology,Technology,math_mark,76,70,Recommended,6
+1061,Bob Garcia,9,English,Core,english_mark,90,0,Recommended,90
+1061,Bob Garcia,9,Life Orientation,Core,english_mark,90,0,Recommended,90
+1061,Bob Garcia,9,Mathematics,Core,math_mark,48,60,Not eligible,-12
+1061,Bob Garcia,9,Mathematical Literacy,Core,math_mark,48,0,Recommended,48
+1061,Bob Garcia,9,Physical Sciences,Science,natural_science_mark,76,65,Recommended,11
+1061,Bob Garcia,9,Life Sciences,Science,natural_science_mark,76,55,Recommended,21
+1061,Bob Garcia,9,Accounting,Commerce,ems_mark,84,60,Recommended,24
+1061,Bob Garcia,9,Business Studies,Commerce,ems_mark,84,50,Recommended,34
+1061,Bob Garcia,9,Geography,Humanities,social_science_mark,73,50,Recommended,23
+1061,Bob Garcia,9,History,Humanities,social_science_mark,73,50,Recommended,23
+1061,Bob Garcia,9,Visual Arts,Arts,creative_arts_mark,81,60,Recommended,21
+1061,Bob Garcia,9,Computer Applications Technology,Technology,math_mark,48,55,Not eligible,-7
+1061,Bob Garcia,9,Information Technology,Technology,math_mark,48,70,Not eligible,-22
+1062,Frank Gonzalez,9,English,Core,english_mark,42,0,Recommended,42
+1062,Frank Gonzalez,9,Life Orientation,Core,english_mark,42,0,Recommended,42
+1062,Frank Gonzalez,9,Mathematics,Core,math_mark,75,60,Recommended,15
+1062,Frank Gonzalez,9,Mathematical Literacy,Core,math_mark,75,0,Recommended,75
+1062,Frank Gonzalez,9,Physical Sciences,Science,natural_science_mark,68,65,Recommended,3
+1062,Frank Gonzalez,9,Life Sciences,Science,natural_science_mark,68,55,Recommended,13
+1062,Frank Gonzalez,9,Accounting,Commerce,ems_mark,88,60,Recommended,28
+1062,Frank Gonzalez,9,Business Studies,Commerce,ems_mark,88,50,Recommended,38
+1062,Frank Gonzalez,9,Geography,Humanities,social_science_mark,76,50,Recommended,26
+1062,Frank Gonzalez,9,History,Humanities,social_science_mark,76,50,Recommended,26
+1062,Frank Gonzalez,9,Visual Arts,Arts,creative_arts_mark,92,60,Recommended,32
+1062,Frank Gonzalez,9,Computer Applications Technology,Technology,math_mark,75,55,Recommended,20
+1062,Frank Gonzalez,9,Information Technology,Technology,math_mark,75,70,Recommended,5
+1063,Peggy Johnson,9,English,Core,english_mark,43,0,Recommended,43
+1063,Peggy Johnson,9,Life Orientation,Core,english_mark,43,0,Recommended,43
+1063,Peggy Johnson,9,Mathematics,Core,math_mark,55,60,Not eligible,-5
+1063,Peggy Johnson,9,Mathematical Literacy,Core,math_mark,55,0,Recommended,55
+1063,Peggy Johnson,9,Physical Sciences,Science,natural_science_mark,88,65,Recommended,23
+1063,Peggy Johnson,9,Life Sciences,Science,natural_science_mark,88,55,Recommended,33
+1063,Peggy Johnson,9,Accounting,Commerce,ems_mark,32,60,Not eligible,-28
+1063,Peggy Johnson,9,Business Studies,Commerce,ems_mark,32,50,Not eligible,-18
+1063,Peggy Johnson,9,Geography,Humanities,social_science_mark,70,50,Recommended,20
+1063,Peggy Johnson,9,History,Humanities,social_science_mark,70,50,Recommended,20
+1063,Peggy Johnson,9,Visual Arts,Arts,creative_arts_mark,78,60,Recommended,18
+1063,Peggy Johnson,9,Computer Applications Technology,Technology,math_mark,55,55,Recommended,0
+1063,Peggy Johnson,9,Information Technology,Technology,math_mark,55,70,Not eligible,-15
+1064,Rita Jones,9,English,Core,english_mark,59,0,Recommended,59
+1064,Rita Jones,9,Life Orientation,Core,english_mark,59,0,Recommended,59
+1064,Rita Jones,9,Mathematics,Core,math_mark,59,60,Not eligible,-1
+1064,Rita Jones,9,Mathematical Literacy,Core,math_mark,59,0,Recommended,59
+1064,Rita Jones,9,Physical Sciences,Science,natural_science_mark,84,65,Recommended,19
+1064,Rita Jones,9,Life Sciences,Science,natural_science_mark,84,55,Recommended,29
+1064,Rita Jones,9,Accounting,Commerce,ems_mark,54,60,Not eligible,-6
+1064,Rita Jones,9,Business Studies,Commerce,ems_mark,54,50,Recommended,4
+1064,Rita Jones,9,Geography,Humanities,social_science_mark,39,50,Not eligible,-11
+1064,Rita Jones,9,History,Humanities,social_science_mark,39,50,Not eligible,-11
+1064,Rita Jones,9,Visual Arts,Arts,creative_arts_mark,53,60,Not eligible,-7
+1064,Rita Jones,9,Computer Applications Technology,Technology,math_mark,59,55,Recommended,4
+1064,Rita Jones,9,Information Technology,Technology,math_mark,59,70,Not eligible,-11
+1065,Bob Moore,9,English,Core,english_mark,37,0,Recommended,37
+1065,Bob Moore,9,Life Orientation,Core,english_mark,37,0,Recommended,37
+1065,Bob Moore,9,Mathematics,Core,math_mark,35,60,Not eligible,-25
+1065,Bob Moore,9,Mathematical Literacy,Core,math_mark,35,0,Recommended,35
+1065,Bob Moore,9,Physical Sciences,Science,natural_science_mark,36,65,Not eligible,-29
+1065,Bob Moore,9,Life Sciences,Science,natural_science_mark,36,55,Not eligible,-19
+1065,Bob Moore,9,Accounting,Commerce,ems_mark,66,60,Recommended,6
+1065,Bob Moore,9,Business Studies,Commerce,ems_mark,66,50,Recommended,16
+1065,Bob Moore,9,Geography,Humanities,social_science_mark,71,50,Recommended,21
+1065,Bob Moore,9,History,Humanities,social_science_mark,71,50,Recommended,21
+1065,Bob Moore,9,Visual Arts,Arts,creative_arts_mark,74,60,Recommended,14
+1065,Bob Moore,9,Computer Applications Technology,Technology,math_mark,35,55,Not eligible,-20
+1065,Bob Moore,9,Information Technology,Technology,math_mark,35,70,Not eligible,-35
+1066,Eve Miller,9,English,Core,english_mark,59,0,Recommended,59
+1066,Eve Miller,9,Life Orientation,Core,english_mark,59,0,Recommended,59
+1066,Eve Miller,9,Mathematics,Core,math_mark,93,60,Recommended,33
+1066,Eve Miller,9,Mathematical Literacy,Core,math_mark,93,0,Recommended,93
+1066,Eve Miller,9,Physical Sciences,Science,natural_science_mark,42,65,Not eligible,-23
+1066,Eve Miller,9,Life Sciences,Science,natural_science_mark,42,55,Not eligible,-13
+1066,Eve Miller,9,Accounting,Commerce,ems_mark,83,60,Recommended,23
+1066,Eve Miller,9,Business Studies,Commerce,ems_mark,83,50,Recommended,33
+1066,Eve Miller,9,Geography,Humanities,social_science_mark,42,50,Not eligible,-8
+1066,Eve Miller,9,History,Humanities,social_science_mark,42,50,Not eligible,-8
+1066,Eve Miller,9,Visual Arts,Arts,creative_arts_mark,58,60,Not eligible,-2
+1066,Eve Miller,9,Computer Applications Technology,Technology,math_mark,93,55,Recommended,38
+1066,Eve Miller,9,Information Technology,Technology,math_mark,93,70,Recommended,23
+1067,Quentin Jackson,9,English,Core,english_mark,65,0,Recommended,65
+1067,Quentin Jackson,9,Life Orientation,Core,english_mark,65,0,Recommended,65
+1067,Quentin Jackson,9,Mathematics,Core,math_mark,93,60,Recommended,33
+1067,Quentin Jackson,9,Mathematical Literacy,Core,math_mark,93,0,Recommended,93
+1067,Quentin Jackson,9,Physical Sciences,Science,natural_science_mark,56,65,Not eligible,-9
+1067,Quentin Jackson,9,Life Sciences,Science,natural_science_mark,56,55,Recommended,1
+1067,Quentin Jackson,9,Accounting,Commerce,ems_mark,45,60,Not eligible,-15
+1067,Quentin Jackson,9,Business Studies,Commerce,ems_mark,45,50,Not eligible,-5
+1067,Quentin Jackson,9,Geography,Humanities,social_science_mark,81,50,Recommended,31
+1067,Quentin Jackson,9,History,Humanities,social_science_mark,81,50,Recommended,31
+1067,Quentin Jackson,9,Visual Arts,Arts,creative_arts_mark,91,60,Recommended,31
+1067,Quentin Jackson,9,Computer Applications Technology,Technology,math_mark,93,55,Recommended,38
+1067,Quentin Jackson,9,Information Technology,Technology,math_mark,93,70,Recommended,23
+1068,Eve Miller,9,English,Core,english_mark,77,0,Recommended,77
+1068,Eve Miller,9,Life Orientation,Core,english_mark,77,0,Recommended,77
+1068,Eve Miller,9,Mathematics,Core,math_mark,80,60,Recommended,20
+1068,Eve Miller,9,Mathematical Literacy,Core,math_mark,80,0,Recommended,80
+1068,Eve Miller,9,Physical Sciences,Science,natural_science_mark,88,65,Recommended,23
+1068,Eve Miller,9,Life Sciences,Science,natural_science_mark,88,55,Recommended,33
+1068,Eve Miller,9,Accounting,Commerce,ems_mark,90,60,Recommended,30
+1068,Eve Miller,9,Business Studies,Commerce,ems_mark,90,50,Recommended,40
+1068,Eve Miller,9,Geography,Humanities,social_science_mark,47,50,Not eligible,-3
+1068,Eve Miller,9,History,Humanities,social_science_mark,47,50,Not eligible,-3
+1068,Eve Miller,9,Visual Arts,Arts,creative_arts_mark,84,60,Recommended,24
+1068,Eve Miller,9,Computer Applications Technology,Technology,math_mark,80,55,Recommended,25
+1068,Eve Miller,9,Information Technology,Technology,math_mark,80,70,Recommended,10
+1069,Judy Taylor,9,English,Core,english_mark,59,0,Recommended,59
+1069,Judy Taylor,9,Life Orientation,Core,english_mark,59,0,Recommended,59
+1069,Judy Taylor,9,Mathematics,Core,math_mark,88,60,Recommended,28
+1069,Judy Taylor,9,Mathematical Literacy,Core,math_mark,88,0,Recommended,88
+1069,Judy Taylor,9,Physical Sciences,Science,natural_science_mark,78,65,Recommended,13
+1069,Judy Taylor,9,Life Sciences,Science,natural_science_mark,78,55,Recommended,23
+1069,Judy Taylor,9,Accounting,Commerce,ems_mark,48,60,Not eligible,-12
+1069,Judy Taylor,9,Business Studies,Commerce,ems_mark,48,50,Not eligible,-2
+1069,Judy Taylor,9,Geography,Humanities,social_science_mark,85,50,Recommended,35
+1069,Judy Taylor,9,History,Humanities,social_science_mark,85,50,Recommended,35
+1069,Judy Taylor,9,Visual Arts,Arts,creative_arts_mark,77,60,Recommended,17
+1069,Judy Taylor,9,Computer Applications Technology,Technology,math_mark,88,55,Recommended,33
+1069,Judy Taylor,9,Information Technology,Technology,math_mark,88,70,Recommended,18
+1070,Quentin Gonzalez,9,English,Core,english_mark,42,0,Recommended,42
+1070,Quentin Gonzalez,9,Life Orientation,Core,english_mark,42,0,Recommended,42
+1070,Quentin Gonzalez,9,Mathematics,Core,math_mark,59,60,Not eligible,-1
+1070,Quentin Gonzalez,9,Mathematical Literacy,Core,math_mark,59,0,Recommended,59
+1070,Quentin Gonzalez,9,Physical Sciences,Science,natural_science_mark,53,65,Not eligible,-12
+1070,Quentin Gonzalez,9,Life Sciences,Science,natural_science_mark,53,55,Not eligible,-2
+1070,Quentin Gonzalez,9,Accounting,Commerce,ems_mark,64,60,Recommended,4
+1070,Quentin Gonzalez,9,Business Studies,Commerce,ems_mark,64,50,Recommended,14
+1070,Quentin Gonzalez,9,Geography,Humanities,social_science_mark,56,50,Recommended,6
+1070,Quentin Gonzalez,9,History,Humanities,social_science_mark,56,50,Recommended,6
+1070,Quentin Gonzalez,9,Visual Arts,Arts,creative_arts_mark,57,60,Not eligible,-3
+1070,Quentin Gonzalez,9,Computer Applications Technology,Technology,math_mark,59,55,Recommended,4
+1070,Quentin Gonzalez,9,Information Technology,Technology,math_mark,59,70,Not eligible,-11
+1071,Grace Lopez,9,English,Core,english_mark,39,0,Recommended,39
+1071,Grace Lopez,9,Life Orientation,Core,english_mark,39,0,Recommended,39
+1071,Grace Lopez,9,Mathematics,Core,math_mark,43,60,Not eligible,-17
+1071,Grace Lopez,9,Mathematical Literacy,Core,math_mark,43,0,Recommended,43
+1071,Grace Lopez,9,Physical Sciences,Science,natural_science_mark,61,65,Not eligible,-4
+1071,Grace Lopez,9,Life Sciences,Science,natural_science_mark,61,55,Recommended,6
+1071,Grace Lopez,9,Accounting,Commerce,ems_mark,34,60,Not eligible,-26
+1071,Grace Lopez,9,Business Studies,Commerce,ems_mark,34,50,Not eligible,-16
+1071,Grace Lopez,9,Geography,Humanities,social_science_mark,75,50,Recommended,25
+1071,Grace Lopez,9,History,Humanities,social_science_mark,75,50,Recommended,25
+1071,Grace Lopez,9,Visual Arts,Arts,creative_arts_mark,43,60,Not eligible,-17
+1071,Grace Lopez,9,Computer Applications Technology,Technology,math_mark,43,55,Not eligible,-12
+1071,Grace Lopez,9,Information Technology,Technology,math_mark,43,70,Not eligible,-27
+1072,David Miller,9,English,Core,english_mark,44,0,Recommended,44
+1072,David Miller,9,Life Orientation,Core,english_mark,44,0,Recommended,44
+1072,David Miller,9,Mathematics,Core,math_mark,81,60,Recommended,21
+1072,David Miller,9,Mathematical Literacy,Core,math_mark,81,0,Recommended,81
+1072,David Miller,9,Physical Sciences,Science,natural_science_mark,69,65,Recommended,4
+1072,David Miller,9,Life Sciences,Science,natural_science_mark,69,55,Recommended,14
+1072,David Miller,9,Accounting,Commerce,ems_mark,73,60,Recommended,13
+1072,David Miller,9,Business Studies,Commerce,ems_mark,73,50,Recommended,23
+1072,David Miller,9,Geography,Humanities,social_science_mark,66,50,Recommended,16
+1072,David Miller,9,History,Humanities,social_science_mark,66,50,Recommended,16
+1072,David Miller,9,Visual Arts,Arts,creative_arts_mark,42,60,Not eligible,-18
+1072,David Miller,9,Computer Applications Technology,Technology,math_mark,81,55,Recommended,26
+1072,David Miller,9,Information Technology,Technology,math_mark,81,70,Recommended,11
+1073,David Davis,9,English,Core,english_mark,45,0,Recommended,45
+1073,David Davis,9,Life Orientation,Core,english_mark,45,0,Recommended,45
+1073,David Davis,9,Mathematics,Core,math_mark,66,60,Recommended,6
+1073,David Davis,9,Mathematical Literacy,Core,math_mark,66,0,Recommended,66
+1073,David Davis,9,Physical Sciences,Science,natural_science_mark,54,65,Not eligible,-11
+1073,David Davis,9,Life Sciences,Science,natural_science_mark,54,55,Not eligible,-1
+1073,David Davis,9,Accounting,Commerce,ems_mark,78,60,Recommended,18
+1073,David Davis,9,Business Studies,Commerce,ems_mark,78,50,Recommended,28
+1073,David Davis,9,Geography,Humanities,social_science_mark,88,50,Recommended,38
+1073,David Davis,9,History,Humanities,social_science_mark,88,50,Recommended,38
+1073,David Davis,9,Visual Arts,Arts,creative_arts_mark,85,60,Recommended,25
+1073,David Davis,9,Computer Applications Technology,Technology,math_mark,66,55,Recommended,11
+1073,David Davis,9,Information Technology,Technology,math_mark,66,70,Not eligible,-4
+1074,Heidi Martinez,9,English,Core,english_mark,45,0,Recommended,45
+1074,Heidi Martinez,9,Life Orientation,Core,english_mark,45,0,Recommended,45
+1074,Heidi Martinez,9,Mathematics,Core,math_mark,31,60,Not eligible,-29
+1074,Heidi Martinez,9,Mathematical Literacy,Core,math_mark,31,0,Recommended,31
+1074,Heidi Martinez,9,Physical Sciences,Science,natural_science_mark,70,65,Recommended,5
+1074,Heidi Martinez,9,Life Sciences,Science,natural_science_mark,70,55,Recommended,15
+1074,Heidi Martinez,9,Accounting,Commerce,ems_mark,72,60,Recommended,12
+1074,Heidi Martinez,9,Business Studies,Commerce,ems_mark,72,50,Recommended,22
+1074,Heidi Martinez,9,Geography,Humanities,social_science_mark,57,50,Recommended,7
+1074,Heidi Martinez,9,History,Humanities,social_science_mark,57,50,Recommended,7
+1074,Heidi Martinez,9,Visual Arts,Arts,creative_arts_mark,82,60,Recommended,22
+1074,Heidi Martinez,9,Computer Applications Technology,Technology,math_mark,31,55,Not eligible,-24
+1074,Heidi Martinez,9,Information Technology,Technology,math_mark,31,70,Not eligible,-39
+1075,Oscar Jones,9,English,Core,english_mark,68,0,Recommended,68
+1075,Oscar Jones,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1075,Oscar Jones,9,Mathematics,Core,math_mark,53,60,Not eligible,-7
+1075,Oscar Jones,9,Mathematical Literacy,Core,math_mark,53,0,Recommended,53
+1075,Oscar Jones,9,Physical Sciences,Science,natural_science_mark,68,65,Recommended,3
+1075,Oscar Jones,9,Life Sciences,Science,natural_science_mark,68,55,Recommended,13
+1075,Oscar Jones,9,Accounting,Commerce,ems_mark,87,60,Recommended,27
+1075,Oscar Jones,9,Business Studies,Commerce,ems_mark,87,50,Recommended,37
+1075,Oscar Jones,9,Geography,Humanities,social_science_mark,41,50,Not eligible,-9
+1075,Oscar Jones,9,History,Humanities,social_science_mark,41,50,Not eligible,-9
+1075,Oscar Jones,9,Visual Arts,Arts,creative_arts_mark,91,60,Recommended,31
+1075,Oscar Jones,9,Computer Applications Technology,Technology,math_mark,53,55,Not eligible,-2
+1075,Oscar Jones,9,Information Technology,Technology,math_mark,53,70,Not eligible,-17
+1076,Heidi Jones,9,English,Core,english_mark,54,0,Recommended,54
+1076,Heidi Jones,9,Life Orientation,Core,english_mark,54,0,Recommended,54
+1076,Heidi Jones,9,Mathematics,Core,math_mark,63,60,Recommended,3
+1076,Heidi Jones,9,Mathematical Literacy,Core,math_mark,63,0,Recommended,63
+1076,Heidi Jones,9,Physical Sciences,Science,natural_science_mark,64,65,Not eligible,-1
+1076,Heidi Jones,9,Life Sciences,Science,natural_science_mark,64,55,Recommended,9
+1076,Heidi Jones,9,Accounting,Commerce,ems_mark,33,60,Not eligible,-27
+1076,Heidi Jones,9,Business Studies,Commerce,ems_mark,33,50,Not eligible,-17
+1076,Heidi Jones,9,Geography,Humanities,social_science_mark,42,50,Not eligible,-8
+1076,Heidi Jones,9,History,Humanities,social_science_mark,42,50,Not eligible,-8
+1076,Heidi Jones,9,Visual Arts,Arts,creative_arts_mark,70,60,Recommended,10
+1076,Heidi Jones,9,Computer Applications Technology,Technology,math_mark,63,55,Recommended,8
+1076,Heidi Jones,9,Information Technology,Technology,math_mark,63,70,Not eligible,-7
+1077,Oscar Garcia,9,English,Core,english_mark,43,0,Recommended,43
+1077,Oscar Garcia,9,Life Orientation,Core,english_mark,43,0,Recommended,43
+1077,Oscar Garcia,9,Mathematics,Core,math_mark,95,60,Recommended,35
+1077,Oscar Garcia,9,Mathematical Literacy,Core,math_mark,95,0,Recommended,95
+1077,Oscar Garcia,9,Physical Sciences,Science,natural_science_mark,75,65,Recommended,10
+1077,Oscar Garcia,9,Life Sciences,Science,natural_science_mark,75,55,Recommended,20
+1077,Oscar Garcia,9,Accounting,Commerce,ems_mark,94,60,Recommended,34
+1077,Oscar Garcia,9,Business Studies,Commerce,ems_mark,94,50,Recommended,44
+1077,Oscar Garcia,9,Geography,Humanities,social_science_mark,93,50,Recommended,43
+1077,Oscar Garcia,9,History,Humanities,social_science_mark,93,50,Recommended,43
+1077,Oscar Garcia,9,Visual Arts,Arts,creative_arts_mark,66,60,Recommended,6
+1077,Oscar Garcia,9,Computer Applications Technology,Technology,math_mark,95,55,Recommended,40
+1077,Oscar Garcia,9,Information Technology,Technology,math_mark,95,70,Recommended,25
+1078,Bob Wilson,9,English,Core,english_mark,67,0,Recommended,67
+1078,Bob Wilson,9,Life Orientation,Core,english_mark,67,0,Recommended,67
+1078,Bob Wilson,9,Mathematics,Core,math_mark,62,60,Recommended,2
+1078,Bob Wilson,9,Mathematical Literacy,Core,math_mark,62,0,Recommended,62
+1078,Bob Wilson,9,Physical Sciences,Science,natural_science_mark,55,65,Not eligible,-10
+1078,Bob Wilson,9,Life Sciences,Science,natural_science_mark,55,55,Recommended,0
+1078,Bob Wilson,9,Accounting,Commerce,ems_mark,36,60,Not eligible,-24
+1078,Bob Wilson,9,Business Studies,Commerce,ems_mark,36,50,Not eligible,-14
+1078,Bob Wilson,9,Geography,Humanities,social_science_mark,87,50,Recommended,37
+1078,Bob Wilson,9,History,Humanities,social_science_mark,87,50,Recommended,37
+1078,Bob Wilson,9,Visual Arts,Arts,creative_arts_mark,78,60,Recommended,18
+1078,Bob Wilson,9,Computer Applications Technology,Technology,math_mark,62,55,Recommended,7
+1078,Bob Wilson,9,Information Technology,Technology,math_mark,62,70,Not eligible,-8
+1079,Alice Smith,9,English,Core,english_mark,53,0,Recommended,53
+1079,Alice Smith,9,Life Orientation,Core,english_mark,53,0,Recommended,53
+1079,Alice Smith,9,Mathematics,Core,math_mark,84,60,Recommended,24
+1079,Alice Smith,9,Mathematical Literacy,Core,math_mark,84,0,Recommended,84
+1079,Alice Smith,9,Physical Sciences,Science,natural_science_mark,90,65,Recommended,25
+1079,Alice Smith,9,Life Sciences,Science,natural_science_mark,90,55,Recommended,35
+1079,Alice Smith,9,Accounting,Commerce,ems_mark,78,60,Recommended,18
+1079,Alice Smith,9,Business Studies,Commerce,ems_mark,78,50,Recommended,28
+1079,Alice Smith,9,Geography,Humanities,social_science_mark,44,50,Not eligible,-6
+1079,Alice Smith,9,History,Humanities,social_science_mark,44,50,Not eligible,-6
+1079,Alice Smith,9,Visual Arts,Arts,creative_arts_mark,48,60,Not eligible,-12
+1079,Alice Smith,9,Computer Applications Technology,Technology,math_mark,84,55,Recommended,29
+1079,Alice Smith,9,Information Technology,Technology,math_mark,84,70,Recommended,14
+1080,Trudy Lopez,9,English,Core,english_mark,71,0,Recommended,71
+1080,Trudy Lopez,9,Life Orientation,Core,english_mark,71,0,Recommended,71
+1080,Trudy Lopez,9,Mathematics,Core,math_mark,53,60,Not eligible,-7
+1080,Trudy Lopez,9,Mathematical Literacy,Core,math_mark,53,0,Recommended,53
+1080,Trudy Lopez,9,Physical Sciences,Science,natural_science_mark,37,65,Not eligible,-28
+1080,Trudy Lopez,9,Life Sciences,Science,natural_science_mark,37,55,Not eligible,-18
+1080,Trudy Lopez,9,Accounting,Commerce,ems_mark,55,60,Not eligible,-5
+1080,Trudy Lopez,9,Business Studies,Commerce,ems_mark,55,50,Recommended,5
+1080,Trudy Lopez,9,Geography,Humanities,social_science_mark,37,50,Not eligible,-13
+1080,Trudy Lopez,9,History,Humanities,social_science_mark,37,50,Not eligible,-13
+1080,Trudy Lopez,9,Visual Arts,Arts,creative_arts_mark,75,60,Recommended,15
+1080,Trudy Lopez,9,Computer Applications Technology,Technology,math_mark,53,55,Not eligible,-2
+1080,Trudy Lopez,9,Information Technology,Technology,math_mark,53,70,Not eligible,-17
+1081,Ivan Garcia,9,English,Core,english_mark,68,0,Recommended,68
+1081,Ivan Garcia,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1081,Ivan Garcia,9,Mathematics,Core,math_mark,46,60,Not eligible,-14
+1081,Ivan Garcia,9,Mathematical Literacy,Core,math_mark,46,0,Recommended,46
+1081,Ivan Garcia,9,Physical Sciences,Science,natural_science_mark,78,65,Recommended,13
+1081,Ivan Garcia,9,Life Sciences,Science,natural_science_mark,78,55,Recommended,23
+1081,Ivan Garcia,9,Accounting,Commerce,ems_mark,92,60,Recommended,32
+1081,Ivan Garcia,9,Business Studies,Commerce,ems_mark,92,50,Recommended,42
+1081,Ivan Garcia,9,Geography,Humanities,social_science_mark,36,50,Not eligible,-14
+1081,Ivan Garcia,9,History,Humanities,social_science_mark,36,50,Not eligible,-14
+1081,Ivan Garcia,9,Visual Arts,Arts,creative_arts_mark,91,60,Recommended,31
+1081,Ivan Garcia,9,Computer Applications Technology,Technology,math_mark,46,55,Not eligible,-9
+1081,Ivan Garcia,9,Information Technology,Technology,math_mark,46,70,Not eligible,-24
+1082,Mallory Brown,9,English,Core,english_mark,83,0,Recommended,83
+1082,Mallory Brown,9,Life Orientation,Core,english_mark,83,0,Recommended,83
+1082,Mallory Brown,9,Mathematics,Core,math_mark,55,60,Not eligible,-5
+1082,Mallory Brown,9,Mathematical Literacy,Core,math_mark,55,0,Recommended,55
+1082,Mallory Brown,9,Physical Sciences,Science,natural_science_mark,41,65,Not eligible,-24
+1082,Mallory Brown,9,Life Sciences,Science,natural_science_mark,41,55,Not eligible,-14
+1082,Mallory Brown,9,Accounting,Commerce,ems_mark,36,60,Not eligible,-24
+1082,Mallory Brown,9,Business Studies,Commerce,ems_mark,36,50,Not eligible,-14
+1082,Mallory Brown,9,Geography,Humanities,social_science_mark,52,50,Recommended,2
+1082,Mallory Brown,9,History,Humanities,social_science_mark,52,50,Recommended,2
+1082,Mallory Brown,9,Visual Arts,Arts,creative_arts_mark,68,60,Recommended,8
+1082,Mallory Brown,9,Computer Applications Technology,Technology,math_mark,55,55,Recommended,0
+1082,Mallory Brown,9,Information Technology,Technology,math_mark,55,70,Not eligible,-15
+1083,Charlie Johnson,9,English,Core,english_mark,42,0,Recommended,42
+1083,Charlie Johnson,9,Life Orientation,Core,english_mark,42,0,Recommended,42
+1083,Charlie Johnson,9,Mathematics,Core,math_mark,50,60,Not eligible,-10
+1083,Charlie Johnson,9,Mathematical Literacy,Core,math_mark,50,0,Recommended,50
+1083,Charlie Johnson,9,Physical Sciences,Science,natural_science_mark,64,65,Not eligible,-1
+1083,Charlie Johnson,9,Life Sciences,Science,natural_science_mark,64,55,Recommended,9
+1083,Charlie Johnson,9,Accounting,Commerce,ems_mark,37,60,Not eligible,-23
+1083,Charlie Johnson,9,Business Studies,Commerce,ems_mark,37,50,Not eligible,-13
+1083,Charlie Johnson,9,Geography,Humanities,social_science_mark,66,50,Recommended,16
+1083,Charlie Johnson,9,History,Humanities,social_science_mark,66,50,Recommended,16
+1083,Charlie Johnson,9,Visual Arts,Arts,creative_arts_mark,88,60,Recommended,28
+1083,Charlie Johnson,9,Computer Applications Technology,Technology,math_mark,50,55,Not eligible,-5
+1083,Charlie Johnson,9,Information Technology,Technology,math_mark,50,70,Not eligible,-20
+1084,Leo Davis,9,English,Core,english_mark,73,0,Recommended,73
+1084,Leo Davis,9,Life Orientation,Core,english_mark,73,0,Recommended,73
+1084,Leo Davis,9,Mathematics,Core,math_mark,43,60,Not eligible,-17
+1084,Leo Davis,9,Mathematical Literacy,Core,math_mark,43,0,Recommended,43
+1084,Leo Davis,9,Physical Sciences,Science,natural_science_mark,52,65,Not eligible,-13
+1084,Leo Davis,9,Life Sciences,Science,natural_science_mark,52,55,Not eligible,-3
+1084,Leo Davis,9,Accounting,Commerce,ems_mark,30,60,Not eligible,-30
+1084,Leo Davis,9,Business Studies,Commerce,ems_mark,30,50,Not eligible,-20
+1084,Leo Davis,9,Geography,Humanities,social_science_mark,39,50,Not eligible,-11
+1084,Leo Davis,9,History,Humanities,social_science_mark,39,50,Not eligible,-11
+1084,Leo Davis,9,Visual Arts,Arts,creative_arts_mark,57,60,Not eligible,-3
+1084,Leo Davis,9,Computer Applications Technology,Technology,math_mark,43,55,Not eligible,-12
+1084,Leo Davis,9,Information Technology,Technology,math_mark,43,70,Not eligible,-27
+1085,Grace Jackson,9,English,Core,english_mark,89,0,Recommended,89
+1085,Grace Jackson,9,Life Orientation,Core,english_mark,89,0,Recommended,89
+1085,Grace Jackson,9,Mathematics,Core,math_mark,51,60,Not eligible,-9
+1085,Grace Jackson,9,Mathematical Literacy,Core,math_mark,51,0,Recommended,51
+1085,Grace Jackson,9,Physical Sciences,Science,natural_science_mark,79,65,Recommended,14
+1085,Grace Jackson,9,Life Sciences,Science,natural_science_mark,79,55,Recommended,24
+1085,Grace Jackson,9,Accounting,Commerce,ems_mark,41,60,Not eligible,-19
+1085,Grace Jackson,9,Business Studies,Commerce,ems_mark,41,50,Not eligible,-9
+1085,Grace Jackson,9,Geography,Humanities,social_science_mark,87,50,Recommended,37
+1085,Grace Jackson,9,History,Humanities,social_science_mark,87,50,Recommended,37
+1085,Grace Jackson,9,Visual Arts,Arts,creative_arts_mark,65,60,Recommended,5
+1085,Grace Jackson,9,Computer Applications Technology,Technology,math_mark,51,55,Not eligible,-4
+1085,Grace Jackson,9,Information Technology,Technology,math_mark,51,70,Not eligible,-19
+1086,Bob Brown,9,English,Core,english_mark,68,0,Recommended,68
+1086,Bob Brown,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1086,Bob Brown,9,Mathematics,Core,math_mark,73,60,Recommended,13
+1086,Bob Brown,9,Mathematical Literacy,Core,math_mark,73,0,Recommended,73
+1086,Bob Brown,9,Physical Sciences,Science,natural_science_mark,33,65,Not eligible,-32
+1086,Bob Brown,9,Life Sciences,Science,natural_science_mark,33,55,Not eligible,-22
+1086,Bob Brown,9,Accounting,Commerce,ems_mark,77,60,Recommended,17
+1086,Bob Brown,9,Business Studies,Commerce,ems_mark,77,50,Recommended,27
+1086,Bob Brown,9,Geography,Humanities,social_science_mark,85,50,Recommended,35
+1086,Bob Brown,9,History,Humanities,social_science_mark,85,50,Recommended,35
+1086,Bob Brown,9,Visual Arts,Arts,creative_arts_mark,58,60,Not eligible,-2
+1086,Bob Brown,9,Computer Applications Technology,Technology,math_mark,73,55,Recommended,18
+1086,Bob Brown,9,Information Technology,Technology,math_mark,73,70,Recommended,3
+1087,Bob Miller,9,English,Core,english_mark,81,0,Recommended,81
+1087,Bob Miller,9,Life Orientation,Core,english_mark,81,0,Recommended,81
+1087,Bob Miller,9,Mathematics,Core,math_mark,51,60,Not eligible,-9
+1087,Bob Miller,9,Mathematical Literacy,Core,math_mark,51,0,Recommended,51
+1087,Bob Miller,9,Physical Sciences,Science,natural_science_mark,40,65,Not eligible,-25
+1087,Bob Miller,9,Life Sciences,Science,natural_science_mark,40,55,Not eligible,-15
+1087,Bob Miller,9,Accounting,Commerce,ems_mark,83,60,Recommended,23
+1087,Bob Miller,9,Business Studies,Commerce,ems_mark,83,50,Recommended,33
+1087,Bob Miller,9,Geography,Humanities,social_science_mark,37,50,Not eligible,-13
+1087,Bob Miller,9,History,Humanities,social_science_mark,37,50,Not eligible,-13
+1087,Bob Miller,9,Visual Arts,Arts,creative_arts_mark,68,60,Recommended,8
+1087,Bob Miller,9,Computer Applications Technology,Technology,math_mark,51,55,Not eligible,-4
+1087,Bob Miller,9,Information Technology,Technology,math_mark,51,70,Not eligible,-19
+1088,Sam Gonzalez,9,English,Core,english_mark,68,0,Recommended,68
+1088,Sam Gonzalez,9,Life Orientation,Core,english_mark,68,0,Recommended,68
+1088,Sam Gonzalez,9,Mathematics,Core,math_mark,95,60,Recommended,35
+1088,Sam Gonzalez,9,Mathematical Literacy,Core,math_mark,95,0,Recommended,95
+1088,Sam Gonzalez,9,Physical Sciences,Science,natural_science_mark,83,65,Recommended,18
+1088,Sam Gonzalez,9,Life Sciences,Science,natural_science_mark,83,55,Recommended,28
+1088,Sam Gonzalez,9,Accounting,Commerce,ems_mark,81,60,Recommended,21
+1088,Sam Gonzalez,9,Business Studies,Commerce,ems_mark,81,50,Recommended,31
+1088,Sam Gonzalez,9,Geography,Humanities,social_science_mark,92,50,Recommended,42
+1088,Sam Gonzalez,9,History,Humanities,social_science_mark,92,50,Recommended,42
+1088,Sam Gonzalez,9,Visual Arts,Arts,creative_arts_mark,63,60,Recommended,3
+1088,Sam Gonzalez,9,Computer Applications Technology,Technology,math_mark,95,55,Recommended,40
+1088,Sam Gonzalez,9,Information Technology,Technology,math_mark,95,70,Recommended,25
+1089,Bob Moore,9,English,Core,english_mark,65,0,Recommended,65
+1089,Bob Moore,9,Life Orientation,Core,english_mark,65,0,Recommended,65
+1089,Bob Moore,9,Mathematics,Core,math_mark,52,60,Not eligible,-8
+1089,Bob Moore,9,Mathematical Literacy,Core,math_mark,52,0,Recommended,52
+1089,Bob Moore,9,Physical Sciences,Science,natural_science_mark,72,65,Recommended,7
+1089,Bob Moore,9,Life Sciences,Science,natural_science_mark,72,55,Recommended,17
+1089,Bob Moore,9,Accounting,Commerce,ems_mark,59,60,Not eligible,-1
+1089,Bob Moore,9,Business Studies,Commerce,ems_mark,59,50,Recommended,9
+1089,Bob Moore,9,Geography,Humanities,social_science_mark,83,50,Recommended,33
+1089,Bob Moore,9,History,Humanities,social_science_mark,83,50,Recommended,33
+1089,Bob Moore,9,Visual Arts,Arts,creative_arts_mark,64,60,Recommended,4
+1089,Bob Moore,9,Computer Applications Technology,Technology,math_mark,52,55,Not eligible,-3
+1089,Bob Moore,9,Information Technology,Technology,math_mark,52,70,Not eligible,-18
+1090,Grace Johnson,9,English,Core,english_mark,35,0,Recommended,35
+1090,Grace Johnson,9,Life Orientation,Core,english_mark,35,0,Recommended,35
+1090,Grace Johnson,9,Mathematics,Core,math_mark,66,60,Recommended,6
+1090,Grace Johnson,9,Mathematical Literacy,Core,math_mark,66,0,Recommended,66
+1090,Grace Johnson,9,Physical Sciences,Science,natural_science_mark,70,65,Recommended,5
+1090,Grace Johnson,9,Life Sciences,Science,natural_science_mark,70,55,Recommended,15
+1090,Grace Johnson,9,Accounting,Commerce,ems_mark,67,60,Recommended,7
+1090,Grace Johnson,9,Business Studies,Commerce,ems_mark,67,50,Recommended,17
+1090,Grace Johnson,9,Geography,Humanities,social_science_mark,89,50,Recommended,39
+1090,Grace Johnson,9,History,Humanities,social_science_mark,89,50,Recommended,39
+1090,Grace Johnson,9,Visual Arts,Arts,creative_arts_mark,69,60,Recommended,9
+1090,Grace Johnson,9,Computer Applications Technology,Technology,math_mark,66,55,Recommended,11
+1090,Grace Johnson,9,Information Technology,Technology,math_mark,66,70,Not eligible,-4
+1091,Karl Brown,9,English,Core,english_mark,46,0,Recommended,46
+1091,Karl Brown,9,Life Orientation,Core,english_mark,46,0,Recommended,46
+1091,Karl Brown,9,Mathematics,Core,math_mark,88,60,Recommended,28
+1091,Karl Brown,9,Mathematical Literacy,Core,math_mark,88,0,Recommended,88
+1091,Karl Brown,9,Physical Sciences,Science,natural_science_mark,47,65,Not eligible,-18
+1091,Karl Brown,9,Life Sciences,Science,natural_science_mark,47,55,Not eligible,-8
+1091,Karl Brown,9,Accounting,Commerce,ems_mark,66,60,Recommended,6
+1091,Karl Brown,9,Business Studies,Commerce,ems_mark,66,50,Recommended,16
+1091,Karl Brown,9,Geography,Humanities,social_science_mark,60,50,Recommended,10
+1091,Karl Brown,9,History,Humanities,social_science_mark,60,50,Recommended,10
+1091,Karl Brown,9,Visual Arts,Arts,creative_arts_mark,59,60,Not eligible,-1
+1091,Karl Brown,9,Computer Applications Technology,Technology,math_mark,88,55,Recommended,33
+1091,Karl Brown,9,Information Technology,Technology,math_mark,88,70,Recommended,18
+1092,David Garcia,9,English,Core,english_mark,84,0,Recommended,84
+1092,David Garcia,9,Life Orientation,Core,english_mark,84,0,Recommended,84
+1092,David Garcia,9,Mathematics,Core,math_mark,79,60,Recommended,19
+1092,David Garcia,9,Mathematical Literacy,Core,math_mark,79,0,Recommended,79
+1092,David Garcia,9,Physical Sciences,Science,natural_science_mark,63,65,Not eligible,-2
+1092,David Garcia,9,Life Sciences,Science,natural_science_mark,63,55,Recommended,8
+1092,David Garcia,9,Accounting,Commerce,ems_mark,30,60,Not eligible,-30
+1092,David Garcia,9,Business Studies,Commerce,ems_mark,30,50,Not eligible,-20
+1092,David Garcia,9,Geography,Humanities,social_science_mark,36,50,Not eligible,-14
+1092,David Garcia,9,History,Humanities,social_science_mark,36,50,Not eligible,-14
+1092,David Garcia,9,Visual Arts,Arts,creative_arts_mark,43,60,Not eligible,-17
+1092,David Garcia,9,Computer Applications Technology,Technology,math_mark,79,55,Recommended,24
+1092,David Garcia,9,Information Technology,Technology,math_mark,79,70,Recommended,9
+1093,Charlie Moore,9,English,Core,english_mark,95,0,Recommended,95
+1093,Charlie Moore,9,Life Orientation,Core,english_mark,95,0,Recommended,95
+1093,Charlie Moore,9,Mathematics,Core,math_mark,69,60,Recommended,9
+1093,Charlie Moore,9,Mathematical Literacy,Core,math_mark,69,0,Recommended,69
+1093,Charlie Moore,9,Physical Sciences,Science,natural_science_mark,76,65,Recommended,11
+1093,Charlie Moore,9,Life Sciences,Science,natural_science_mark,76,55,Recommended,21
+1093,Charlie Moore,9,Accounting,Commerce,ems_mark,91,60,Recommended,31
+1093,Charlie Moore,9,Business Studies,Commerce,ems_mark,91,50,Recommended,41
+1093,Charlie Moore,9,Geography,Humanities,social_science_mark,80,50,Recommended,30
+1093,Charlie Moore,9,History,Humanities,social_science_mark,80,50,Recommended,30
+1093,Charlie Moore,9,Visual Arts,Arts,creative_arts_mark,55,60,Not eligible,-5
+1093,Charlie Moore,9,Computer Applications Technology,Technology,math_mark,69,55,Recommended,14
+1093,Charlie Moore,9,Information Technology,Technology,math_mark,69,70,Not eligible,-1
+1094,Quentin Lopez,9,English,Core,english_mark,42,0,Recommended,42
+1094,Quentin Lopez,9,Life Orientation,Core,english_mark,42,0,Recommended,42
+1094,Quentin Lopez,9,Mathematics,Core,math_mark,47,60,Not eligible,-13
+1094,Quentin Lopez,9,Mathematical Literacy,Core,math_mark,47,0,Recommended,47
+1094,Quentin Lopez,9,Physical Sciences,Science,natural_science_mark,26,65,Not eligible,-39
+1094,Quentin Lopez,9,Life Sciences,Science,natural_science_mark,26,55,Not eligible,-29
+1094,Quentin Lopez,9,Accounting,Commerce,ems_mark,44,60,Not eligible,-16
+1094,Quentin Lopez,9,Business Studies,Commerce,ems_mark,44,50,Not eligible,-6
+1094,Quentin Lopez,9,Geography,Humanities,social_science_mark,49,50,Not eligible,-1
+1094,Quentin Lopez,9,History,Humanities,social_science_mark,49,50,Not eligible,-1
+1094,Quentin Lopez,9,Visual Arts,Arts,creative_arts_mark,94,60,Recommended,34
+1094,Quentin Lopez,9,Computer Applications Technology,Technology,math_mark,47,55,Not eligible,-8
+1094,Quentin Lopez,9,Information Technology,Technology,math_mark,47,70,Not eligible,-23
+1095,Judy Johnson,9,English,Core,english_mark,53,0,Recommended,53
+1095,Judy Johnson,9,Life Orientation,Core,english_mark,53,0,Recommended,53
+1095,Judy Johnson,9,Mathematics,Core,math_mark,75,60,Recommended,15
+1095,Judy Johnson,9,Mathematical Literacy,Core,math_mark,75,0,Recommended,75
+1095,Judy Johnson,9,Physical Sciences,Science,natural_science_mark,58,65,Not eligible,-7
+1095,Judy Johnson,9,Life Sciences,Science,natural_science_mark,58,55,Recommended,3
+1095,Judy Johnson,9,Accounting,Commerce,ems_mark,44,60,Not eligible,-16
+1095,Judy Johnson,9,Business Studies,Commerce,ems_mark,44,50,Not eligible,-6
+1095,Judy Johnson,9,Geography,Humanities,social_science_mark,82,50,Recommended,32
+1095,Judy Johnson,9,History,Humanities,social_science_mark,82,50,Recommended,32
+1095,Judy Johnson,9,Visual Arts,Arts,creative_arts_mark,63,60,Recommended,3
+1095,Judy Johnson,9,Computer Applications Technology,Technology,math_mark,75,55,Recommended,20
+1095,Judy Johnson,9,Information Technology,Technology,math_mark,75,70,Recommended,5
+1096,David Davis,9,English,Core,english_mark,45,0,Recommended,45
+1096,David Davis,9,Life Orientation,Core,english_mark,45,0,Recommended,45
+1096,David Davis,9,Mathematics,Core,math_mark,58,60,Not eligible,-2
+1096,David Davis,9,Mathematical Literacy,Core,math_mark,58,0,Recommended,58
+1096,David Davis,9,Physical Sciences,Science,natural_science_mark,82,65,Recommended,17
+1096,David Davis,9,Life Sciences,Science,natural_science_mark,82,55,Recommended,27
+1096,David Davis,9,Accounting,Commerce,ems_mark,44,60,Not eligible,-16
+1096,David Davis,9,Business Studies,Commerce,ems_mark,44,50,Not eligible,-6
+1096,David Davis,9,Geography,Humanities,social_science_mark,74,50,Recommended,24
+1096,David Davis,9,History,Humanities,social_science_mark,74,50,Recommended,24
+1096,David Davis,9,Visual Arts,Arts,creative_arts_mark,70,60,Recommended,10
+1096,David Davis,9,Computer Applications Technology,Technology,math_mark,58,55,Recommended,3
+1096,David Davis,9,Information Technology,Technology,math_mark,58,70,Not eligible,-12
+1097,Peggy Williams,9,English,Core,english_mark,43,0,Recommended,43
+1097,Peggy Williams,9,Life Orientation,Core,english_mark,43,0,Recommended,43
+1097,Peggy Williams,9,Mathematics,Core,math_mark,52,60,Not eligible,-8
+1097,Peggy Williams,9,Mathematical Literacy,Core,math_mark,52,0,Recommended,52
+1097,Peggy Williams,9,Physical Sciences,Science,natural_science_mark,91,65,Recommended,26
+1097,Peggy Williams,9,Life Sciences,Science,natural_science_mark,91,55,Recommended,36
+1097,Peggy Williams,9,Accounting,Commerce,ems_mark,59,60,Not eligible,-1
+1097,Peggy Williams,9,Business Studies,Commerce,ems_mark,59,50,Recommended,9
+1097,Peggy Williams,9,Geography,Humanities,social_science_mark,39,50,Not eligible,-11
+1097,Peggy Williams,9,History,Humanities,social_science_mark,39,50,Not eligible,-11
+1097,Peggy Williams,9,Visual Arts,Arts,creative_arts_mark,55,60,Not eligible,-5
+1097,Peggy Williams,9,Computer Applications Technology,Technology,math_mark,52,55,Not eligible,-3
+1097,Peggy Williams,9,Information Technology,Technology,math_mark,52,70,Not eligible,-18
+1098,Frank Taylor,9,English,Core,english_mark,72,0,Recommended,72
+1098,Frank Taylor,9,Life Orientation,Core,english_mark,72,0,Recommended,72
+1098,Frank Taylor,9,Mathematics,Core,math_mark,76,60,Recommended,16
+1098,Frank Taylor,9,Mathematical Literacy,Core,math_mark,76,0,Recommended,76
+1098,Frank Taylor,9,Physical Sciences,Science,natural_science_mark,68,65,Recommended,3
+1098,Frank Taylor,9,Life Sciences,Science,natural_science_mark,68,55,Recommended,13
+1098,Frank Taylor,9,Accounting,Commerce,ems_mark,54,60,Not eligible,-6
+1098,Frank Taylor,9,Business Studies,Commerce,ems_mark,54,50,Recommended,4
+1098,Frank Taylor,9,Geography,Humanities,social_science_mark,91,50,Recommended,41
+1098,Frank Taylor,9,History,Humanities,social_science_mark,91,50,Recommended,41
+1098,Frank Taylor,9,Visual Arts,Arts,creative_arts_mark,51,60,Not eligible,-9
+1098,Frank Taylor,9,Computer Applications Technology,Technology,math_mark,76,55,Recommended,21
+1098,Frank Taylor,9,Information Technology,Technology,math_mark,76,70,Recommended,6
+1099,Ivan Miller,9,English,Core,english_mark,43,0,Recommended,43
+1099,Ivan Miller,9,Life Orientation,Core,english_mark,43,0,Recommended,43
+1099,Ivan Miller,9,Mathematics,Core,math_mark,65,60,Recommended,5
+1099,Ivan Miller,9,Mathematical Literacy,Core,math_mark,65,0,Recommended,65
+1099,Ivan Miller,9,Physical Sciences,Science,natural_science_mark,82,65,Recommended,17
+1099,Ivan Miller,9,Life Sciences,Science,natural_science_mark,82,55,Recommended,27
+1099,Ivan Miller,9,Accounting,Commerce,ems_mark,89,60,Recommended,29
+1099,Ivan Miller,9,Business Studies,Commerce,ems_mark,89,50,Recommended,39
+1099,Ivan Miller,9,Geography,Humanities,social_science_mark,71,50,Recommended,21
+1099,Ivan Miller,9,History,Humanities,social_science_mark,71,50,Recommended,21
+1099,Ivan Miller,9,Visual Arts,Arts,creative_arts_mark,92,60,Recommended,32
+1099,Ivan Miller,9,Computer Applications Technology,Technology,math_mark,65,55,Recommended,10
+1099,Ivan Miller,9,Information Technology,Technology,math_mark,65,70,Not eligible,-5
+1100,Ivan Moore,9,English,Core,english_mark,39,0,Recommended,39
+1100,Ivan Moore,9,Life Orientation,Core,english_mark,39,0,Recommended,39
+1100,Ivan Moore,9,Mathematics,Core,math_mark,79,60,Recommended,19
+1100,Ivan Moore,9,Mathematical Literacy,Core,math_mark,79,0,Recommended,79
+1100,Ivan Moore,9,Physical Sciences,Science,natural_science_mark,71,65,Recommended,6
+1100,Ivan Moore,9,Life Sciences,Science,natural_science_mark,71,55,Recommended,16
+1100,Ivan Moore,9,Accounting,Commerce,ems_mark,70,60,Recommended,10
+1100,Ivan Moore,9,Business Studies,Commerce,ems_mark,70,50,Recommended,20
+1100,Ivan Moore,9,Geography,Humanities,social_science_mark,64,50,Recommended,14
+1100,Ivan Moore,9,History,Humanities,social_science_mark,64,50,Recommended,14
+1100,Ivan Moore,9,Visual Arts,Arts,creative_arts_mark,71,60,Recommended,11
+1100,Ivan Moore,9,Computer Applications Technology,Technology,math_mark,79,55,Recommended,24
+1100,Ivan Moore,9,Information Technology,Technology,math_mark,79,70,Recommended,9
