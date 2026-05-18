@@ -177,17 +177,46 @@ The learner selected Life Orientation.
 The learner selected either Mathematics or Mathematical Literacy.
 The learner did not select both Mathematics and Mathematical Literacy.
 The learner did not select subjects they are not eligible for.
-How to Run the Project
 
-Run the scripts in this order from the main project folder:
+
+
+## How to Run the Project
+
+The full project pipeline can be run with one command from the main project folder:
+
+py scripts/run_pipeline.py
+
+This runs all project scripts in the correct order:
+
+1. Generate sample learner data
+2. Generate subject rules
+3. Generate subject recommendations
+4. Generate sample parent choices
+5. Validate subject choices
+6. Generate subject demand report
+7. Create subject demand chart
+8. Generate executive summary
+9. Rank learner recommendations
+10. Generate invalid subject report
+11. Create invalid subject chart
+12. Generate KPI summary
+13. Load data into SQLite database
+
+Individual scripts can also be run separately:
 
 py scripts/generate_sample_data.py
 py scripts/generate_subject_rules.py
 py scripts/recommend_subjects.py
 py scripts/generate_sample_choices.py
 py scripts/validate_choices.py
-
-The order matters because some scripts depend on files created by earlier scripts.
+py scripts/generate_subject_demand_report.py
+py scripts/visualise_subject_demand.py
+py scripts/generate_executive_summary.py
+py scripts/rank_learner_recommendations.py
+py scripts/generate_invalid_subject_report.py
+py scripts/visualise_invalid_subject_report.py
+py scripts/generate_kpi_summary.py
+py scripts/load_data_to_sqlite.py
 
 Example Outputs
 Learner Recommendation Example
