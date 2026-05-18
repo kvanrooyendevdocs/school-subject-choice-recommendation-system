@@ -45,6 +45,16 @@ The system is designed to:
 - CSV files
 - Git and GitHub
 
+## Setup Instructions
+
+Clone the repository or download the project files.
+
+Install the required Python libraries:
+
+
+py -m pip install -r requirements.txt
+Then run the full pipeline:
+py scripts/run_pipeline.py
 ---
 
 ## Project Structure
